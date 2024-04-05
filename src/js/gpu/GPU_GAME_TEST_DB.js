@@ -1,6 +1,7 @@
-const GPU_GAME_TEST_DB = [
+// Дані всіх тестів відеокарт
+export const GPU_GAME_TEST_DB = [
   {
-    GPU: "RTX 4090",
+    GPU: 'RTX 4090',
     GTA_V_heightFullHD: 184,
     GTA_V_ultraFullHD: 141,
     GTA_V_ultraHD4K: 105,
@@ -18,7 +19,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 113387,
   },
   {
-    GPU: "RTX 4080",
+    GPU: 'RTX 4080',
     GTA_V_heightFullHD: 183,
     GTA_V_ultraFullHD: 133,
     GTA_V_ultraHD4K: 98,
@@ -31,12 +32,12 @@ const GPU_GAME_TEST_DB = [
     gpu_type: 3750,
     gpu_series: 3819,
     vr_support: true,
-    memory_type: 30490,
+    memory_type: 20913,
     test_3DMark06: 58651,
     test_3DMark_Vantage_P: 111294,
   },
   {
-    GPU: "RTX 4070",
+    GPU: 'RTX 4070',
     GTA_V_heightFullHD: 182,
     GTA_V_ultraFullHD: 121,
     GTA_V_ultraHD4K: 89,
@@ -54,7 +55,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 97153,
   },
   {
-    GPU: "RTX 4060",
+    GPU: 'RTX 4060',
     GTA_V_heightFullHD: 180,
     GTA_V_ultraFullHD: 112,
     GTA_V_ultraHD4K: 82,
@@ -72,7 +73,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 90275,
   },
   {
-    GPU: "RTX 4050",
+    GPU: 'RTX 4050',
     GTA_V_heightFullHD: 177,
     GTA_V_ultraFullHD: 92,
     GTA_V_ultraHD4K: 64,
@@ -90,7 +91,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 85660,
   },
   {
-    GPU: "RTX 3080 Ti",
+    GPU: 'RTX 3080 Ti',
     GTA_V_heightFullHD: 177,
     GTA_V_ultraFullHD: 116,
     GTA_V_ultraHD4K: 78,
@@ -108,7 +109,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 94760,
   },
   {
-    GPU: "RTX 3080",
+    GPU: 'RTX 3080',
     GTA_V_heightFullHD: 154,
     GTA_V_ultraFullHD: 91,
     GTA_V_ultraHD4K: 83,
@@ -126,7 +127,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 75159,
   },
   {
-    GPU: "RTX 3080 Max-Q",
+    GPU: 'RTX 3080 Max-Q',
     GTA_V_heightFullHD: 144,
     GTA_V_ultraFullHD: 84,
     GTA_V_ultraHD4K: 76,
@@ -144,7 +145,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3070 Ti",
+    GPU: 'RTX 3070 Ti',
     GTA_V_heightFullHD: 171,
     GTA_V_ultraFullHD: 117,
     GTA_V_ultraHD4K: 77,
@@ -162,7 +163,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 81895,
   },
   {
-    GPU: "RTX 3070",
+    GPU: 'RTX 3070',
     GTA_V_heightFullHD: 141,
     GTA_V_ultraFullHD: 85,
     GTA_V_ultraHD4K: 77,
@@ -180,7 +181,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 77147,
   },
   {
-    GPU: "RTX 3070 Max-Q",
+    GPU: 'RTX 3070 Max-Q',
     GTA_V_heightFullHD: 133,
     GTA_V_ultraFullHD: 79,
     GTA_V_ultraHD4K: 67,
@@ -198,7 +199,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3060 ",
+    GPU: 'RTX 3060 ',
     GTA_V_heightFullHD: 138,
     GTA_V_ultraFullHD: 81,
     GTA_V_ultraHD4K: 70,
@@ -216,7 +217,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 57333,
   },
   {
-    GPU: "RTX 3060 Max-Q",
+    GPU: 'RTX 3060 Max-Q',
     GTA_V_heightFullHD: 130,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 62,
@@ -234,7 +235,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3050 Ti Max-Q",
+    GPU: 'RTX 3050 Ti Max-Q',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -252,7 +253,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3050 Ti",
+    GPU: 'RTX 3050 Ti',
     GTA_V_heightFullHD: 129,
     GTA_V_ultraFullHD: 73,
     GTA_V_ultraHD4K: 60,
@@ -270,7 +271,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3050 Max-Q",
+    GPU: 'RTX 3050 Max-Q',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -288,7 +289,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RTX 3050",
+    GPU: 'RTX 3050',
     GTA_V_heightFullHD: 107,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 50,
@@ -306,7 +307,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 43216,
   },
   {
-    GPU: "RTX 2080 SUPER",
+    GPU: 'RTX 2080 SUPER',
     GTA_V_heightFullHD: 164,
     GTA_V_ultraFullHD: 92,
     GTA_V_ultraHD4K: 75,
@@ -324,7 +325,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 69838,
   },
   {
-    GPU: "RTX 2080",
+    GPU: 'RTX 2080',
     GTA_V_heightFullHD: 126,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 65,
@@ -342,7 +343,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 68525,
   },
   {
-    GPU: "RTX 2080 SUPER Max-Q",
+    GPU: 'RTX 2080 SUPER Max-Q',
     GTA_V_heightFullHD: 153,
     GTA_V_ultraFullHD: 86,
     GTA_V_ultraHD4K: 70,
@@ -360,7 +361,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 60306,
   },
   {
-    GPU: "RTX 2080 Max-Q",
+    GPU: 'RTX 2080 Max-Q',
     GTA_V_heightFullHD: 115,
     GTA_V_ultraFullHD: 63,
     GTA_V_ultraHD4K: 55,
@@ -378,7 +379,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 51930,
   },
   {
-    GPU: "RTX 2070 SUPER ",
+    GPU: 'RTX 2070 SUPER ',
     GTA_V_heightFullHD: 163,
     GTA_V_ultraFullHD: 94,
     GTA_V_ultraHD4K: 77,
@@ -396,7 +397,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 70601,
   },
   {
-    GPU: "RTX 2070",
+    GPU: 'RTX 2070',
     GTA_V_heightFullHD: 127,
     GTA_V_ultraFullHD: 71,
     GTA_V_ultraHD4K: 61,
@@ -414,7 +415,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 64151,
   },
   {
-    GPU: "RTX 2070 SUPER Max-Q",
+    GPU: 'RTX 2070 SUPER Max-Q',
     GTA_V_heightFullHD: 160,
     GTA_V_ultraFullHD: 90,
     GTA_V_ultraHD4K: 73,
@@ -432,7 +433,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 65101,
   },
   {
-    GPU: "RTX 2070 Max-Q",
+    GPU: 'RTX 2070 Max-Q',
     GTA_V_heightFullHD: 93,
     GTA_V_ultraFullHD: 54,
     GTA_V_ultraHD4K: 46,
@@ -450,7 +451,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 48510,
   },
   {
-    GPU: "RTX 2060",
+    GPU: 'RTX 2060',
     GTA_V_heightFullHD: 116,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 56,
@@ -468,7 +469,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 57644,
   },
   {
-    GPU: "RTX 2060 Max-Q",
+    GPU: 'RTX 2060 Max-Q',
     GTA_V_heightFullHD: 110,
     GTA_V_ultraFullHD: 60,
     GTA_V_ultraHD4K: 50,
@@ -486,7 +487,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 50957,
   },
   {
-    GPU: "RTX 2050",
+    GPU: 'RTX 2050',
     GTA_V_heightFullHD: 108,
     GTA_V_ultraFullHD: 53,
     GTA_V_ultraHD4K: 44,
@@ -504,7 +505,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 46821,
   },
   {
-    GPU: "GTX 1080 SLI ",
+    GPU: 'GTX 1080 SLI ',
     GTA_V_heightFullHD: 195,
     GTA_V_ultraFullHD: 165,
     GTA_V_ultraHD4K: 120,
@@ -522,7 +523,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1070 SLI ",
+    GPU: 'GTX 1070 SLI ',
     GTA_V_heightFullHD: 156,
     GTA_V_ultraFullHD: 137,
     GTA_V_ultraHD4K: 95,
@@ -540,7 +541,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1080",
+    GPU: 'GTX 1080',
     GTA_V_heightFullHD: 130,
     GTA_V_ultraFullHD: 106,
     GTA_V_ultraHD4K: 75,
@@ -558,7 +559,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1080 Max-Q",
+    GPU: 'GTX 1080 Max-Q',
     GTA_V_heightFullHD: 108,
     GTA_V_ultraFullHD: 88,
     GTA_V_ultraHD4K: 63,
@@ -576,7 +577,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1070",
+    GPU: 'GTX 1070',
     GTA_V_heightFullHD: 120,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 53,
@@ -594,7 +595,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1070 Max-Q",
+    GPU: 'GTX 1070 Max-Q',
     GTA_V_heightFullHD: 102,
     GTA_V_ultraFullHD: 54,
     GTA_V_ultraHD4K: 45,
@@ -612,7 +613,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1660 Ti",
+    GPU: 'GTX 1660 Ti',
     GTA_V_heightFullHD: 123,
     GTA_V_ultraFullHD: 68,
     GTA_V_ultraHD4K: 57,
@@ -630,7 +631,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 49309,
   },
   {
-    GPU: "GTX 1660 Ti Max-Q",
+    GPU: 'GTX 1660 Ti Max-Q',
     GTA_V_heightFullHD: 115,
     GTA_V_ultraFullHD: 60,
     GTA_V_ultraHD4K: 49,
@@ -648,7 +649,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 31845,
   },
   {
-    GPU: "GTX 1650 Ti",
+    GPU: 'GTX 1650 Ti',
     GTA_V_heightFullHD: 80,
     GTA_V_ultraFullHD: 46,
     GTA_V_ultraHD4K: 40,
@@ -666,7 +667,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 43517,
   },
   {
-    GPU: "GTX 1650 Ti Max-Q",
+    GPU: 'GTX 1650 Ti Max-Q',
     GTA_V_heightFullHD: 74,
     GTA_V_ultraFullHD: 42,
     GTA_V_ultraHD4K: 36,
@@ -684,7 +685,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 31116,
   },
   {
-    GPU: "GTX 1650",
+    GPU: 'GTX 1650',
     GTA_V_heightFullHD: 68,
     GTA_V_ultraFullHD: 38,
     GTA_V_ultraHD4K: 33,
@@ -702,7 +703,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 31310,
   },
   {
-    GPU: "GTX 1650 Max-Q",
+    GPU: 'GTX 1650 Max-Q',
     GTA_V_heightFullHD: 63,
     GTA_V_ultraFullHD: 35,
     GTA_V_ultraHD4K: 30,
@@ -720,7 +721,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 30957,
   },
   {
-    GPU: "GTX 1060",
+    GPU: 'GTX 1060',
     GTA_V_heightFullHD: 90,
     GTA_V_ultraFullHD: 48,
     GTA_V_ultraHD4K: 38,
@@ -738,7 +739,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1060 Max-Q",
+    GPU: 'GTX 1060 Max-Q',
     GTA_V_heightFullHD: 81,
     GTA_V_ultraFullHD: 43,
     GTA_V_ultraHD4K: 34,
@@ -756,7 +757,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1050 Ti",
+    GPU: 'GTX 1050 Ti',
     GTA_V_heightFullHD: 60,
     GTA_V_ultraFullHD: 36,
     GTA_V_ultraHD4K: 30,
@@ -774,7 +775,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1050 Ti Max-Q",
+    GPU: 'GTX 1050 Ti Max-Q',
     GTA_V_heightFullHD: 57,
     GTA_V_ultraFullHD: 34,
     GTA_V_ultraHD4K: 28,
@@ -792,7 +793,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1050",
+    GPU: 'GTX 1050',
     GTA_V_heightFullHD: 65,
     GTA_V_ultraFullHD: 18,
     GTA_V_ultraHD4K: 0,
@@ -810,7 +811,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 1050 Max-Q",
+    GPU: 'GTX 1050 Max-Q',
     GTA_V_heightFullHD: 62,
     GTA_V_ultraFullHD: 27,
     GTA_V_ultraHD4K: 26,
@@ -828,7 +829,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "MX570",
+    GPU: 'MX570',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -846,7 +847,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "MX550",
+    GPU: 'MX550',
     GTA_V_heightFullHD: 78,
     GTA_V_ultraFullHD: 35,
     GTA_V_ultraHD4K: 0,
@@ -864,7 +865,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 36560,
   },
   {
-    GPU: "MX450",
+    GPU: 'MX450',
     GTA_V_heightFullHD: 51,
     GTA_V_ultraFullHD: 22,
     GTA_V_ultraHD4K: 0,
@@ -882,7 +883,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 22831,
   },
   {
-    GPU: "MX350",
+    GPU: 'MX350',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 20,
     GTA_V_ultraHD4K: 0,
@@ -900,7 +901,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "MX330",
+    GPU: 'MX330',
     GTA_V_heightFullHD: 32,
     GTA_V_ultraFullHD: 13,
     GTA_V_ultraHD4K: 0,
@@ -918,7 +919,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "MX250",
+    GPU: 'MX250',
     GTA_V_heightFullHD: 41,
     GTA_V_ultraFullHD: 8,
     GTA_V_ultraHD4K: 0,
@@ -936,7 +937,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 16487,
   },
   {
-    GPU: "MX230",
+    GPU: 'MX230',
     GTA_V_heightFullHD: 26,
     GTA_V_ultraFullHD: 10,
     GTA_V_ultraHD4K: 0,
@@ -954,7 +955,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "MX150",
+    GPU: 'MX150',
     GTA_V_heightFullHD: 35,
     GTA_V_ultraFullHD: 16,
     GTA_V_ultraHD4K: 0,
@@ -972,7 +973,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 10991,
   },
   {
-    GPU: "MX130",
+    GPU: 'MX130',
     GTA_V_heightFullHD: 24,
     GTA_V_ultraFullHD: 10,
     GTA_V_ultraHD4K: 0,
@@ -990,7 +991,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 11968,
   },
   {
-    GPU: "MX110",
+    GPU: 'MX110',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1008,7 +1009,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 9124,
   },
   {
-    GPU: "GTX 980M SLI",
+    GPU: 'GTX 980M SLI',
     GTA_V_heightFullHD: 142,
     GTA_V_ultraFullHD: 61,
     GTA_V_ultraHD4K: 55,
@@ -1026,7 +1027,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 970M SLI",
+    GPU: 'GTX 970M SLI',
     GTA_V_heightFullHD: 120,
     GTA_V_ultraFullHD: 50,
     GTA_V_ultraHD4K: 43,
@@ -1044,7 +1045,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 965M SLI",
+    GPU: 'GTX 965M SLI',
     GTA_V_heightFullHD: 88,
     GTA_V_ultraFullHD: 39,
     GTA_V_ultraHD4K: 35,
@@ -1062,7 +1063,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 980M",
+    GPU: 'GTX 980M',
     GTA_V_heightFullHD: 84,
     GTA_V_ultraFullHD: 36,
     GTA_V_ultraHD4K: 41,
@@ -1080,7 +1081,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 970M",
+    GPU: 'GTX 970M',
     GTA_V_heightFullHD: 69,
     GTA_V_ultraFullHD: 28,
     GTA_V_ultraHD4K: 33,
@@ -1098,7 +1099,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 965M",
+    GPU: 'GTX 965M',
     GTA_V_heightFullHD: 52,
     GTA_V_ultraFullHD: 23,
     GTA_V_ultraHD4K: 0,
@@ -1116,7 +1117,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 960M",
+    GPU: 'GTX 960M',
     GTA_V_heightFullHD: 43,
     GTA_V_ultraFullHD: 18,
     GTA_V_ultraHD4K: 0,
@@ -1134,7 +1135,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "GTX 950M",
+    GPU: 'GTX 950M',
     GTA_V_heightFullHD: 28,
     GTA_V_ultraFullHD: 12,
     GTA_V_ultraHD4K: 0,
@@ -1152,7 +1153,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 7600M XT",
+    GPU: 'RX 7600M XT',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1170,7 +1171,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 93477,
   },
   {
-    GPU: "RX 7700S",
+    GPU: 'RX 7700S',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1188,7 +1189,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 7600M",
+    GPU: 'RX 7600M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1206,7 +1207,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 7600S",
+    GPU: 'RX 7600S',
     GTA_V_heightFullHD: 163,
     GTA_V_ultraFullHD: 89,
     GTA_V_ultraHD4K: 67,
@@ -1224,7 +1225,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 79339,
   },
   {
-    GPU: "RX 6850M XT",
+    GPU: 'RX 6850M XT',
     GTA_V_heightFullHD: 157,
     GTA_V_ultraFullHD: 95,
     GTA_V_ultraHD4K: 70,
@@ -1242,7 +1243,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 6800M",
+    GPU: 'RX 6800M',
     GTA_V_heightFullHD: 124,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 56,
@@ -1260,7 +1261,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 77244,
   },
   {
-    GPU: "RX 6800S",
+    GPU: 'RX 6800S',
     GTA_V_heightFullHD: 161,
     GTA_V_ultraFullHD: 89,
     GTA_V_ultraHD4K: 45,
@@ -1278,7 +1279,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 82247,
   },
   {
-    GPU: "RX 6700M",
+    GPU: 'RX 6700M',
     GTA_V_heightFullHD: 147,
     GTA_V_ultraFullHD: 86,
     GTA_V_ultraHD4K: 65,
@@ -1296,7 +1297,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 66973,
   },
   {
-    GPU: "RX 6700S",
+    GPU: 'RX 6700S',
     GTA_V_heightFullHD: 155,
     GTA_V_ultraFullHD: 81,
     GTA_V_ultraHD4K: 40,
@@ -1314,7 +1315,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 75332,
   },
   {
-    GPU: "RX 6650M",
+    GPU: 'RX 6650M',
     GTA_V_heightFullHD: 143,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 61,
@@ -1332,7 +1333,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 6600M",
+    GPU: 'RX 6600M',
     GTA_V_heightFullHD: 138,
     GTA_V_ultraFullHD: 72,
     GTA_V_ultraHD4K: 58,
@@ -1350,7 +1351,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 72685,
   },
   {
-    GPU: "RX 6500M",
+    GPU: 'RX 6500M',
     GTA_V_heightFullHD: 97,
     GTA_V_ultraFullHD: 42,
     GTA_V_ultraHD4K: 19,
@@ -1368,7 +1369,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 51599,
   },
   {
-    GPU: "RX 5500M",
+    GPU: 'RX 5500M',
     GTA_V_heightFullHD: 104,
     GTA_V_ultraFullHD: 53,
     GTA_V_ultraHD4K: 20,
@@ -1386,7 +1387,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 580",
+    GPU: 'RX 580',
     GTA_V_heightFullHD: 83,
     GTA_V_ultraFullHD: 40,
     GTA_V_ultraHD4K: 32,
@@ -1404,7 +1405,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "RX 560X",
+    GPU: 'RX 560X',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 21,
     GTA_V_ultraHD4K: 0,
@@ -1422,7 +1423,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 19829,
   },
   {
-    GPU: "RX 560",
+    GPU: 'RX 560',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 23,
     GTA_V_ultraHD4K: 0,
@@ -1440,7 +1441,7 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "A370M",
+    GPU: 'A370M',
     GTA_V_heightFullHD: 41,
     GTA_V_ultraFullHD: 16,
     GTA_V_ultraHD4K: 0,
@@ -1458,171 +1459,171 @@ const GPU_GAME_TEST_DB = [
     test_3DMark_Vantage_P: 0,
   },
   {
-    GPU: "A350M",
+    GPU: 'A350M',
   },
   {
-    GPU: "UHD Graphics Xe G4 48EUs",
+    GPU: 'UHD Graphics Xe G4 48EUs',
   },
   {
-    GPU: "UHD Graphics Xe 750 32EUs",
+    GPU: 'UHD Graphics Xe 750 32EUs',
   },
   {
-    GPU: "UHD Graphics Xe 32EUs",
+    GPU: 'UHD Graphics Xe 32EUs',
   },
   {
-    GPU: "UHD Graphics Xe 24EUs",
+    GPU: 'UHD Graphics Xe 24EUs',
   },
   {
-    GPU: "UHD Graphics Xe 16EUs",
+    GPU: 'UHD Graphics Xe 16EUs',
   },
   {
-    GPU: "UHD Graphics G7",
+    GPU: 'UHD Graphics G7',
   },
   {
-    GPU: "UHD Graphics G1",
+    GPU: 'UHD Graphics G1',
   },
   {
-    GPU: "UHD Graphics 770",
+    GPU: 'UHD Graphics 770',
   },
   {
-    GPU: "UHD Graphics 64EUs",
+    GPU: 'UHD Graphics 64EUs',
   },
   {
-    GPU: "UHD Graphics 620",
+    GPU: 'UHD Graphics 620',
   },
   {
-    GPU: "UHD Graphics 617",
+    GPU: 'UHD Graphics 617',
   },
   {
-    GPU: "UHD Graphics 615",
+    GPU: 'UHD Graphics 615',
   },
   {
-    GPU: "UHD Graphics 610",
+    GPU: 'UHD Graphics 610',
   },
   {
-    GPU: "UHD Graphics 605",
+    GPU: 'UHD Graphics 605',
   },
   {
-    GPU: "UHD Graphics 600",
+    GPU: 'UHD Graphics 600',
   },
   {
-    GPU: "UHD Graphics 32EUs",
+    GPU: 'UHD Graphics 32EUs',
   },
   {
-    GPU: "UHD Graphics",
+    GPU: 'UHD Graphics',
   },
   {
-    GPU: "Iris Xe Graphics G7 96EUs",
+    GPU: 'Iris Xe Graphics G7 96EUs',
   },
   {
-    GPU: "Iris Xe Graphics G7 80EUs",
+    GPU: 'Iris Xe Graphics G7 80EUs',
   },
   {
-    GPU: "Arc 8-Cores",
+    GPU: 'Arc 8-Cores',
   },
   {
-    GPU: "Arc 7-Cores",
+    GPU: 'Arc 7-Cores',
   },
   {
-    GPU: "Vega 11",
+    GPU: 'Vega 11',
   },
   {
-    GPU: "Vega 10",
+    GPU: 'Vega 10',
   },
   {
-    GPU: "Vega 8",
+    GPU: 'Vega 8',
   },
   {
-    GPU: "Vega 7",
+    GPU: 'Vega 7',
   },
   {
-    GPU: "Vega 6",
+    GPU: 'Vega 6',
   },
   {
-    GPU: "Vega 5",
+    GPU: 'Vega 5',
   },
   {
-    GPU: "Vega 3",
+    GPU: 'Vega 3',
   },
   {
-    GPU: "Vega 2",
+    GPU: 'Vega 2',
   },
   {
-    GPU: "Radeon 780M",
+    GPU: 'Radeon 780M',
   },
   {
-    GPU: "Radeon 760M",
+    GPU: 'Radeon 760M',
   },
   {
-    GPU: "Radeon 740M",
+    GPU: 'Radeon 740M',
   },
   {
-    GPU: "Radeon 680M",
+    GPU: 'Radeon 680M',
   },
   {
-    GPU: "Radeon 660M",
+    GPU: 'Radeon 660M',
   },
   {
-    GPU: "Radeon 610M",
+    GPU: 'Radeon 610M',
   },
   {
-    GPU: "RX 640",
+    GPU: 'RX 640',
   },
   {
-    GPU: "RX 5600M",
+    GPU: 'RX 5600M',
   },
   {
-    GPU: "RTX A5500",
+    GPU: 'RTX A5500',
   },
   {
-    GPU: "RTX A5000",
+    GPU: 'RTX A5000',
   },
   {
-    GPU: "RTX A500",
+    GPU: 'RTX A500',
   },
   {
-    GPU: "RTX A4500",
+    GPU: 'RTX A4500',
   },
   {
-    GPU: "RTX A4000",
+    GPU: 'RTX A4000',
   },
   {
-    GPU: "RTX A3500",
+    GPU: 'RTX A3500',
   },
   {
-    GPU: "RTX A3000",
+    GPU: 'RTX A3000',
   },
   {
-    GPU: "RTX A2000",
+    GPU: 'RTX A2000',
   },
   {
-    GPU: "RTX A1000",
+    GPU: 'RTX A1000',
   },
   {
-    GPU: "RTX 5000 Ada",
+    GPU: 'RTX 5000 Ada',
   },
   {
-    GPU: "RTX 5000",
+    GPU: 'RTX 5000',
   },
   {
-    GPU: "RTX 3500 Ada",
+    GPU: 'RTX 3500 Ada',
   },
   {
-    GPU: "RTX 3500",
+    GPU: 'RTX 3500',
   },
   {
-    GPU: "RTX 3000 Ada",
+    GPU: 'RTX 3000 Ada',
   },
   {
-    GPU: "RTX 2000 Ada",
+    GPU: 'RTX 2000 Ada',
   },
   {
-    GPU: "T600",
+    GPU: 'T600',
   },
   {
-    GPU: "T550",
+    GPU: 'T550',
   },
   {
-    GPU: "T500",
+    GPU: 'T500',
   },
 ];
