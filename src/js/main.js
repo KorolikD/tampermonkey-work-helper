@@ -12,4 +12,5 @@
 // @grant        none
 // ==/UserScript==
 
+import './cpu';
 import './gpu';

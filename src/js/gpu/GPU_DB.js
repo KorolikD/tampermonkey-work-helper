@@ -1,5 +1,5 @@
-// Дані всіх тестів відеокарт
-export const GPU_GAME_TEST_DB = [
+// Дані всіх відеокарт
+export const GPU_DB = [
   {
     GPU: 'RTX 4090',
     GTA_V_heightFullHD: 184,
