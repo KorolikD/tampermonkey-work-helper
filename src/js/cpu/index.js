@@ -45,6 +45,11 @@ setTimeout(() => {
 
   function onCpuGraphicButton() {
     const cpuGraphicData = CPU_DB.find(el => el.cpuModel.trim() === cpuModelInput.value.trim());
+
+    if (!cpuGraphicData) {
+      return;
+    }
+
     cpuGraphic.value = cpuGraphicData.gpuModel;
   }
 }, 1500);

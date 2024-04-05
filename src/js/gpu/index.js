@@ -31,7 +31,7 @@ setTimeout(() => {
     }
 
     inputData(gpuRef, gpuModelData);
-    gpuRef.gpu_memory_capacity.style.borderColor = 'red';
-    gpuRef.gpu_TDP.style.borderColor = 'red';
+    gpuRef.gpu_memory_capacity.style.color = 'red';
+    gpuRef.gpu_TDP.style.color = 'red';
   }
 }, 1500);
