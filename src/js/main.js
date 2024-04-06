@@ -3,7 +3,7 @@
 // ==UserScript==
 // @name         GPU helper
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-05
+// @version      2024-04-06
 // @description  try to take over the world!
 // @author       KorolikD
 

@@ -47,9 +47,29 @@ setTimeout(() => {
     const cpuGraphicData = CPU_DB.find(el => el.cpuModel.trim() === cpuModelInput.value.trim());
 
     if (!cpuGraphicData) {
+      cpuGraphic.value = '';
       return;
     }
 
     cpuGraphic.value = cpuGraphicData.gpuModel;
+  }
+
+  // Логіка кліку на Кастомні селекти
+  const cpuSeriesSelect = document.querySelector('#select2-good_E6-container');
+  const cpuCodenameSelect = document.querySelector('#select2-good_E40-container');
+  const cpuThreadsSelect = document.querySelector('#select2-good_E5-container');
+
+  cpuSeriesSelect.addEventListener('click', onCustomSelectClick);
+  cpuCodenameSelect.addEventListener('click', onCustomSelectClick);
+  cpuThreadsSelect.addEventListener('click', onCustomSelectClick);
+
+  function onCustomSelectClick(e) {
+    const selectSearchField = document.querySelector('.select2-search__field');
+
+    if (!selectSearchField) {
+      return;
+    }
+
+    selectSearchField.value = e.target.textContent;
   }
 }, 1500);

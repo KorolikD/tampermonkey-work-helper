@@ -14,8 +14,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 64691,
-    "test_3DMark_Vantage_P": 113387
+    "test_3DMark_Vantage_P": 113387,
+    "test_3DMark06": 64691
   },
   {
     "GPU": "RTX 4080",
@@ -32,8 +32,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 58651,
-    "test_3DMark_Vantage_P": 111294
+    "test_3DMark_Vantage_P": 111294,
+    "test_3DMark06": 58651
   },
   {
     "GPU": "RTX 4070",
@@ -50,8 +50,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 55349,
-    "test_3DMark_Vantage_P": 97153
+    "test_3DMark_Vantage_P": 97153,
+    "test_3DMark06": 55349
   },
   {
     "GPU": "RTX 4060",
@@ -68,8 +68,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 49745,
-    "test_3DMark_Vantage_P": 90275
+    "test_3DMark_Vantage_P": 90275,
+    "test_3DMark06": 49745
   },
   {
     "GPU": "RTX 4050",
@@ -86,8 +86,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 50886,
-    "test_3DMark_Vantage_P": 85660
+    "test_3DMark_Vantage_P": 85660,
+    "test_3DMark06": 50886
   },
   {
     "GPU": "RTX 3080 Ti",
@@ -104,8 +104,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 56967,
-    "test_3DMark_Vantage_P": 94760
+    "test_3DMark_Vantage_P": 94760,
+    "test_3DMark06": 56967
   },
   {
     "GPU": "RTX 3080",
@@ -122,8 +122,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 44856,
-    "test_3DMark_Vantage_P": 75159
+    "test_3DMark_Vantage_P": 75159,
+    "test_3DMark06": 44856
   },
   {
     "GPU": "RTX 3080 Max-Q",
@@ -140,8 +140,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3070 Ti",
@@ -158,8 +158,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 50062,
-    "test_3DMark_Vantage_P": 81895
+    "test_3DMark_Vantage_P": 81895,
+    "test_3DMark06": 50062
   },
   {
     "GPU": "RTX 3070",
@@ -176,8 +176,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 47262,
-    "test_3DMark_Vantage_P": 77147
+    "test_3DMark_Vantage_P": 77147,
+    "test_3DMark06": 47262
   },
   {
     "GPU": "RTX 3070 Max-Q",
@@ -194,8 +194,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3060 ",
@@ -212,8 +212,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 47118,
-    "test_3DMark_Vantage_P": 57333
+    "test_3DMark_Vantage_P": 57333,
+    "test_3DMark06": 47118
   },
   {
     "GPU": "RTX 3060 Max-Q",
@@ -230,8 +230,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3050 Ti Max-Q",
@@ -248,8 +248,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3050 Ti",
@@ -266,8 +266,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 45370,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 45370
   },
   {
     "GPU": "RTX 3050 Max-Q",
@@ -284,8 +284,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3050",
@@ -302,8 +302,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 39512,
-    "test_3DMark_Vantage_P": 43216
+    "test_3DMark_Vantage_P": 43216,
+    "test_3DMark06": 39512
   },
   {
     "GPU": "RTX 2080 SUPER",
@@ -320,8 +320,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 41873,
-    "test_3DMark_Vantage_P": 69838
+    "test_3DMark_Vantage_P": 69838,
+    "test_3DMark06": 41873
   },
   {
     "GPU": "RTX 2080",
@@ -338,8 +338,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 41995,
-    "test_3DMark_Vantage_P": 68525
+    "test_3DMark_Vantage_P": 68525,
+    "test_3DMark06": 41995
   },
   {
     "GPU": "RTX 2080 SUPER Max-Q",
@@ -356,8 +356,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 38265,
-    "test_3DMark_Vantage_P": 60306
+    "test_3DMark_Vantage_P": 60306,
+    "test_3DMark06": 38265
   },
   {
     "GPU": "RTX 2080 Max-Q",
@@ -374,8 +374,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 37613,
-    "test_3DMark_Vantage_P": 51930
+    "test_3DMark_Vantage_P": 51930,
+    "test_3DMark06": 37613
   },
   {
     "GPU": "RTX 2070 SUPER ",
@@ -392,8 +392,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 43041,
-    "test_3DMark_Vantage_P": 70601
+    "test_3DMark_Vantage_P": 70601,
+    "test_3DMark06": 43041
   },
   {
     "GPU": "RTX 2070",
@@ -410,8 +410,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 42409,
-    "test_3DMark_Vantage_P": 64151
+    "test_3DMark_Vantage_P": 64151,
+    "test_3DMark06": 42409
   },
   {
     "GPU": "RTX 2070 SUPER Max-Q",
@@ -428,8 +428,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 43406,
-    "test_3DMark_Vantage_P": 65101
+    "test_3DMark_Vantage_P": 65101,
+    "test_3DMark06": 43406
   },
   {
     "GPU": "RTX 2070 Max-Q",
@@ -446,8 +446,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 35284,
-    "test_3DMark_Vantage_P": 48510
+    "test_3DMark_Vantage_P": 48510,
+    "test_3DMark06": 35284
   },
   {
     "GPU": "RTX 2060",
@@ -464,8 +464,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 38509,
-    "test_3DMark_Vantage_P": 57644
+    "test_3DMark_Vantage_P": 57644,
+    "test_3DMark06": 38509
   },
   {
     "GPU": "RTX 2060 Max-Q",
@@ -482,8 +482,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 37332,
-    "test_3DMark_Vantage_P": 50957
+    "test_3DMark_Vantage_P": 50957,
+    "test_3DMark06": 37332
   },
   {
     "GPU": "RTX 2050",
@@ -500,8 +500,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 39263,
-    "test_3DMark_Vantage_P": 46821
+    "test_3DMark_Vantage_P": 46821,
+    "test_3DMark06": 39263
   },
   {
     "GPU": "GTX 1080 SLI ",
@@ -518,8 +518,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1070 SLI ",
@@ -536,8 +536,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1080",
@@ -554,8 +554,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1080 Max-Q",
@@ -572,8 +572,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1070",
@@ -590,8 +590,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1070 Max-Q",
@@ -608,8 +608,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1660 Ti",
@@ -626,8 +626,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 38153,
-    "test_3DMark_Vantage_P": 49309
+    "test_3DMark_Vantage_P": 49309,
+    "test_3DMark06": 38153
   },
   {
     "GPU": "GTX 1660 Ti Max-Q",
@@ -644,8 +644,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 25211,
-    "test_3DMark_Vantage_P": 31845
+    "test_3DMark_Vantage_P": 31845,
+    "test_3DMark06": 25211
   },
   {
     "GPU": "GTX 1650 Ti",
@@ -662,8 +662,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 39720,
-    "test_3DMark_Vantage_P": 43517
+    "test_3DMark_Vantage_P": 43517,
+    "test_3DMark06": 39720
   },
   {
     "GPU": "GTX 1650 Ti Max-Q",
@@ -680,8 +680,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 30266,
-    "test_3DMark_Vantage_P": 31116
+    "test_3DMark_Vantage_P": 31116,
+    "test_3DMark06": 30266
   },
   {
     "GPU": "GTX 1650",
@@ -698,8 +698,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 34484,
-    "test_3DMark_Vantage_P": 31310
+    "test_3DMark_Vantage_P": 31310,
+    "test_3DMark06": 34484
   },
   {
     "GPU": "GTX 1650 Max-Q",
@@ -716,8 +716,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 32040,
-    "test_3DMark_Vantage_P": 30957
+    "test_3DMark_Vantage_P": 30957,
+    "test_3DMark06": 32040
   },
   {
     "GPU": "GTX 1060",
@@ -734,8 +734,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1060 Max-Q",
@@ -752,8 +752,8 @@
     "gpu_series": 3819,
     "vr_support": true,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1050 Ti",
@@ -770,8 +770,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1050 Ti Max-Q",
@@ -788,8 +788,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1050",
@@ -806,8 +806,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 1050 Max-Q",
@@ -824,8 +824,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "MX570",
@@ -842,8 +842,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "MX550",
@@ -860,8 +860,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 42476,
-    "test_3DMark_Vantage_P": 36560
+    "test_3DMark_Vantage_P": 36560,
+    "test_3DMark06": 42476
   },
   {
     "GPU": "MX450",
@@ -878,8 +878,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 22831
+    "test_3DMark_Vantage_P": 22831,
+    "test_3DMark06": 0
   },
   {
     "GPU": "MX350",
@@ -896,8 +896,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3754,
-    "test_3DMark06": 23907,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 23907
   },
   {
     "GPU": "MX330",
@@ -914,8 +914,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3754,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "MX250",
@@ -932,8 +932,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3754,
-    "test_3DMark06": 25428,
-    "test_3DMark_Vantage_P": 16487
+    "test_3DMark_Vantage_P": 16487,
+    "test_3DMark06": 25428
   },
   {
     "GPU": "MX230",
@@ -950,8 +950,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3754,
-    "test_3DMark06": 18399,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 18399
   },
   {
     "GPU": "MX150",
@@ -968,8 +968,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3754,
-    "test_3DMark06": 19312,
-    "test_3DMark_Vantage_P": 10991
+    "test_3DMark_Vantage_P": 10991,
+    "test_3DMark06": 19312
   },
   {
     "GPU": "MX130",
@@ -986,8 +986,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 18080,
-    "test_3DMark_Vantage_P": 11968
+    "test_3DMark_Vantage_P": 11968,
+    "test_3DMark06": 18080
   },
   {
     "GPU": "MX110",
@@ -1004,8 +1004,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 14612,
-    "test_3DMark_Vantage_P": 9124
+    "test_3DMark_Vantage_P": 9124,
+    "test_3DMark06": 14612
   },
   {
     "GPU": "GTX 980M SLI",
@@ -1022,8 +1022,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 970M SLI",
@@ -1040,8 +1040,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 965M SLI",
@@ -1058,8 +1058,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 980M",
@@ -1076,8 +1076,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 970M",
@@ -1094,8 +1094,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 965M",
@@ -1112,8 +1112,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 960M",
@@ -1130,8 +1130,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "GTX 950M",
@@ -1148,8 +1148,8 @@
     "gpu_series": 3819,
     "vr_support": false,
     "memory_type": 3846,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RX 7600M XT",
@@ -1166,8 +1166,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 22993,
-    "test_3DMark_Vantage_P": 93477
+    "test_3DMark_Vantage_P": 93477,
+    "test_3DMark06": 22993
   },
   {
     "GPU": "RX 7700S",
@@ -1184,8 +1184,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RX 7600M",
@@ -1202,8 +1202,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RX 7600S",
@@ -1220,8 +1220,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 51164,
-    "test_3DMark_Vantage_P": 79339
+    "test_3DMark_Vantage_P": 79339,
+    "test_3DMark06": 51164
   },
   {
     "GPU": "RX 6850M XT",
@@ -1238,8 +1238,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RX 6800M",
@@ -1256,8 +1256,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 46433,
-    "test_3DMark_Vantage_P": 77244
+    "test_3DMark_Vantage_P": 77244,
+    "test_3DMark06": 46433
   },
   {
     "GPU": "RX 6800S",
@@ -1274,8 +1274,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 51423,
-    "test_3DMark_Vantage_P": 82247
+    "test_3DMark_Vantage_P": 82247,
+    "test_3DMark06": 51423
   },
   {
     "GPU": "RX 6700M",
@@ -1292,8 +1292,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 46372,
-    "test_3DMark_Vantage_P": 66973
+    "test_3DMark_Vantage_P": 66973,
+    "test_3DMark06": 46372
   },
   {
     "GPU": "RX 6700S",
@@ -1310,8 +1310,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 48289,
-    "test_3DMark_Vantage_P": 75332
+    "test_3DMark_Vantage_P": 75332,
+    "test_3DMark06": 48289
   },
   {
     "GPU": "RX 6650M",
@@ -1328,8 +1328,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RX 6600M",
@@ -1346,8 +1346,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 45858,
-    "test_3DMark_Vantage_P": 72685
+    "test_3DMark_Vantage_P": 72685,
+    "test_3DMark06": 45858
   },
   {
     "GPU": "RX 6500M",
@@ -1364,8 +1364,8 @@
     "gpu_series": 3815,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 35958,
-    "test_3DMark_Vantage_P": 51599
+    "test_3DMark_Vantage_P": 51599,
+    "test_3DMark06": 35958
   },
   {
     "GPU": "RX 5500M",
@@ -1382,8 +1382,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 20913,
-    "test_3DMark06": 25762,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 25762
   },
   {
     "GPU": "RX 580",
@@ -1400,8 +1400,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 3754,
-    "test_3DMark06": 28909,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 28909
   },
   {
     "GPU": "RX 560X",
@@ -1418,8 +1418,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 3754,
-    "test_3DMark06": 25527,
-    "test_3DMark_Vantage_P": 19829
+    "test_3DMark_Vantage_P": 19829,
+    "test_3DMark06": 25527
   },
   {
     "GPU": "RX 560",
@@ -1436,8 +1436,8 @@
     "gpu_series": 3815,
     "vr_support": true,
     "memory_type": 3754,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "A370M",
@@ -1454,175 +1454,942 @@
     "gpu_series": 29269,
     "vr_support": false,
     "memory_type": 20913,
-    "test_3DMark06": 0,
-    "test_3DMark_Vantage_P": 0
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "A350M"
+    "GPU": "A350M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 29269,
+    "vr_support": false,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 31023,
+    "test_3DMark06": 31625
   },
   {
-    "GPU": "UHD Graphics Xe G4 48EUs"
+    "GPU": "UHD Graphics Xe G4 48EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 10650,
+    "test_3DMark06": 10779
   },
   {
-    "GPU": "UHD Graphics Xe 750 32EUs"
+    "GPU": "UHD Graphics Xe 750 32EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 5134,
+    "test_3DMark06": 17392
   },
   {
-    "GPU": "UHD Graphics Xe 32EUs"
+    "GPU": "UHD Graphics Xe 32EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 13644,
+    "test_3DMark06": 19588
   },
   {
-    "GPU": "UHD Graphics Xe 24EUs"
+    "GPU": "UHD Graphics Xe 24EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 5775,
+    "test_3DMark06": 10126
   },
   {
-    "GPU": "UHD Graphics Xe 16EUs"
+    "GPU": "UHD Graphics Xe 16EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 7190,
+    "test_3DMark06": 12452
   },
   {
-    "GPU": "UHD Graphics G7"
+    "GPU": "UHD Graphics 24EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 5775,
+    "test_3DMark06": 10126
   },
   {
-    "GPU": "UHD Graphics G1"
+    "GPU": "UHD Graphics G7",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "UHD Graphics 770"
+    "GPU": "UHD Graphics G1",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 8750,
+    "test_3DMark06": 10955
   },
   {
-    "GPU": "UHD Graphics 64EUs"
+    "GPU": "UHD Graphics 770",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 15865,
+    "test_3DMark06": 23428
   },
   {
-    "GPU": "UHD Graphics 620"
+    "GPU": "UHD Graphics 64EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 18748,
+    "test_3DMark06": 25362
   },
   {
-    "GPU": "UHD Graphics 617"
+    "GPU": "UHD Graphics 620",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 7330,
+    "test_3DMark06": 10642
   },
   {
-    "GPU": "UHD Graphics 615"
+    "GPU": "UHD Graphics 617",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 8662
   },
   {
-    "GPU": "UHD Graphics 610"
+    "GPU": "UHD Graphics 615",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 3813,
+    "test_3DMark06": 6601
   },
   {
-    "GPU": "UHD Graphics 605"
+    "GPU": "UHD Graphics 610",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 3996,
+    "test_3DMark06": 6902
   },
   {
-    "GPU": "UHD Graphics 600"
+    "GPU": "UHD Graphics 605",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 2162,
+    "test_3DMark06": 4171
   },
   {
-    "GPU": "UHD Graphics 32EUs"
+    "GPU": "UHD Graphics 600",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 2189,
+    "test_3DMark06": 3960
   },
   {
-    "GPU": "UHD Graphics"
+    "GPU": "UHD Graphics 32EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 13644,
+    "test_3DMark06": 19588
   },
   {
-    "GPU": "Iris Xe Graphics G7 96EUs"
+    "GPU": "UHD Graphics",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3805,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "Iris Xe Graphics G7 80EUs"
+    "GPU": "Iris Xe Graphics G7 96EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 7647,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 24384,
+    "test_3DMark06": 28231
   },
   {
-    "GPU": "Arc 8-Cores"
+    "GPU": "Iris Xe Graphics G7 80EUs",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 7647,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 21729,
+    "test_3DMark06": 25691
   },
   {
-    "GPU": "Arc 7-Cores"
+    "GPU": "Arc 8-Cores",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 29269,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 41031,
+    "test_3DMark06": 36831
   },
   {
-    "GPU": "Vega 11"
+    "GPU": "Arc 7-Cores",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 29269,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 38592,
+    "test_3DMark06": 40578
   },
   {
-    "GPU": "Vega 10"
+    "GPU": "Graphics 4-Cores",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "Vega 8"
+    "GPU": "Vega 11",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 20608
   },
   {
-    "GPU": "Vega 7"
+    "GPU": "Vega 10",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 11391,
+    "test_3DMark06": 14890
   },
   {
-    "GPU": "Vega 6"
+    "GPU": "Vega 8",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 22428,
+    "test_3DMark06": 25886
   },
   {
-    "GPU": "Vega 5"
+    "GPU": "Vega 7",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 17714,
+    "test_3DMark06": 22493
   },
   {
-    "GPU": "Vega 3"
+    "GPU": "Vega 6",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 14700
   },
   {
-    "GPU": "Vega 2"
+    "GPU": "Vega 5",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 11704,
+    "test_3DMark06": 15564
   },
   {
-    "GPU": "Radeon 780M"
+    "GPU": "Vega 3",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": "5440.5",
+    "test_3DMark06": 11103
   },
   {
-    "GPU": "Radeon 760M"
+    "GPU": "Vega 2",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "Radeon 740M"
+    "GPU": "Radeon 780M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 40258,
+    "test_3DMark06": 42242
   },
   {
-    "GPU": "Radeon 680M"
+    "GPU": "Radeon 760M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 32985,
+    "test_3DMark06": 35337
   },
   {
-    "GPU": "Radeon 660M"
+    "GPU": "Radeon 740M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
-    "GPU": "Radeon 610M"
+    "GPU": "Radeon 680M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 33169,
+    "test_3DMark06": 33479
   },
   {
-    "GPU": "RX 640"
+    "GPU": "Radeon 660M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 23222,
+    "test_3DMark06": 27876
   },
   {
-    "GPU": "RX 5600M"
+    "GPU": "Radeon 610M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 7833,
+    "test_3DMark06": 13875
   },
   {
-    "GPU": "RTX A5500"
+    "GPU": "RX 640",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 3754,
+    "test_3DMark_Vantage_P": 14141,
+    "test_3DMark06": 20261
   },
   {
-    "GPU": "RTX A5000"
+    "GPU": "RX 5600M",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 3815,
+    "vr_support": false,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 18582,
+    "test_3DMark06": 38139
   },
   {
-    "GPU": "RTX A500"
+    "GPU": "RTX A5500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A4500"
+    "GPU": "RTX A5000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A4000"
+    "GPU": "RTX A500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A3500"
+    "GPU": "RTX A4500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A3000"
+    "GPU": "RTX A4000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A2000"
+    "GPU": "RTX A3500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX A1000"
+    "GPU": "RTX A3000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 5000 Ada"
+    "GPU": "RTX A2000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 5000"
+    "GPU": "RTX A1000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 3500 Ada"
+    "GPU": "RTX 5000 Ada",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 3500"
+    "GPU": "RTX 5000",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 3000 Ada"
+    "GPU": "RTX 3500 Ada",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "RTX 2000 Ada"
+    "GPU": "RTX 3500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "T600"
+    "GPU": "RTX 3000 Ada",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "T550"
+    "GPU": "RTX 2000 Ada",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   },
   {
-    "GPU": "T500"
+    "GPU": "T600",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
+  },
+  {
+    "GPU": "T550",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
+  },
+  {
+    "GPU": "T500",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0
   }
 ]

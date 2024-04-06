@@ -29,6 +29,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 8935,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i3',
@@ -49,6 +50,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 11443,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i3',
@@ -64,6 +66,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 14376,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i5',
@@ -79,6 +82,7 @@ export const CPU_DB = [
     test_3DMark06: 6641,
     test_Passmark_CPU_Mark: 10729,
     test_SuperPI_1M: 7,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -94,6 +98,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13561,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -114,6 +119,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13109,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -129,6 +135,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 71315,
     test_SuperPI_1M: 8.3,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -144,6 +151,7 @@ export const CPU_DB = [
     test_3DMark06: 11842,
     test_Passmark_CPU_Mark: 18498,
     test_SuperPI_1M: 8.43,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -159,6 +167,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18133,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i5',
@@ -189,6 +198,7 @@ export const CPU_DB = [
     test_3DMark06: 13461,
     test_Passmark_CPU_Mark: 21570,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i7',
@@ -204,6 +214,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 12421,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -219,6 +230,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13939,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -234,6 +246,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 12698,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -249,6 +262,7 @@ export const CPU_DB = [
     test_3DMark06: 7351,
     test_Passmark_CPU_Mark: 13560,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -264,6 +278,7 @@ export const CPU_DB = [
     test_3DMark06: 12963,
     test_Passmark_CPU_Mark: 17393,
     test_SuperPI_1M: 7.8,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -279,6 +294,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 17667,
     test_SuperPI_1M: 7.64,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -294,6 +310,7 @@ export const CPU_DB = [
     test_3DMark06: 6579,
     test_Passmark_CPU_Mark: 20419,
     test_SuperPI_1M: 7,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -309,6 +326,7 @@ export const CPU_DB = [
     test_3DMark06: 13918,
     test_Passmark_CPU_Mark: 26665,
     test_SuperPI_1M: 7.92,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i7',
@@ -324,6 +342,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 19052,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -339,6 +358,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 33456,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i7',
@@ -369,6 +389,7 @@ export const CPU_DB = [
     test_3DMark06: 16706,
     test_Passmark_CPU_Mark: 24462,
     test_SuperPI_1M: 7.83,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i9',
@@ -384,6 +405,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 30649,
     test_SuperPI_1M: 7.3,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
@@ -429,6 +451,7 @@ export const CPU_DB = [
     test_3DMark06: 5867,
     test_Passmark_CPU_Mark: 5465,
     test_SuperPI_1M: 21.86,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Processor',
@@ -444,6 +467,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 5617,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 24EUs',
   },
   {
     series: 'Processor',
@@ -459,6 +483,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 5455,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 750 32EUs',
   },
   {
     series: 'Core i3',
@@ -474,6 +499,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 8475,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 750 32EUs',
   },
   {
     series: 'Core i3',
@@ -489,6 +515,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10196,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i3',
@@ -509,6 +536,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 4918,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 615',
   },
   {
     series: 'Core i5',
@@ -529,6 +557,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 5523,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 617',
   },
   {
     series: 'Ryzen 3',
@@ -544,6 +573,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 11632,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 5',
@@ -559,6 +589,7 @@ export const CPU_DB = [
     test_3DMark06: 11440,
     test_Passmark_CPU_Mark: 15023,
     test_SuperPI_1M: 9.84,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 5',
@@ -574,6 +605,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 14912,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 7',
@@ -589,6 +621,7 @@ export const CPU_DB = [
     test_3DMark06: 11292,
     test_Passmark_CPU_Mark: 18479,
     test_SuperPI_1M: 7.2,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 7',
@@ -604,6 +637,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16491,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 3',
@@ -619,6 +653,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10982,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 3',
@@ -639,6 +674,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16522,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 5',
@@ -654,6 +690,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16228,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 7',
@@ -669,6 +706,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18834,
     test_SuperPI_1M: 7.95,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 7',
@@ -684,6 +722,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 20468,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 3',
@@ -699,6 +738,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 11888,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 3',
@@ -714,6 +754,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 12047,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 5',
@@ -729,6 +770,7 @@ export const CPU_DB = [
     test_3DMark06: 11349,
     test_Passmark_CPU_Mark: 15592,
     test_SuperPI_1M: 8.42,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 5',
@@ -744,6 +786,7 @@ export const CPU_DB = [
     test_3DMark06: 12008,
     test_Passmark_CPU_Mark: 17820,
     test_SuperPI_1M: 7.2,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 5',
@@ -764,6 +807,7 @@ export const CPU_DB = [
     test_3DMark06: 11124,
     test_Passmark_CPU_Mark: 15105,
     test_SuperPI_1M: 8.61,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 7',
@@ -779,6 +823,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 19083,
     test_SuperPI_1M: 9.83,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 7',
@@ -794,6 +839,7 @@ export const CPU_DB = [
     test_3DMark06: 13280,
     test_Passmark_CPU_Mark: 21622,
     test_SuperPI_1M: 7.2,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 7',
@@ -809,6 +855,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 20511,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 7',
@@ -824,6 +871,7 @@ export const CPU_DB = [
     test_3DMark06: 11656,
     test_Passmark_CPU_Mark: 17361,
     test_SuperPI_1M: 10,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 9',
@@ -854,6 +902,7 @@ export const CPU_DB = [
     test_3DMark06: 14317,
     test_Passmark_CPU_Mark: 23412,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 9',
@@ -899,6 +948,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 1451,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 610',
   },
   {
     series: 'Celeron',
@@ -919,6 +969,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 2504,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 610',
   },
   {
     series: 'Core i3',
@@ -934,6 +985,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 3971,
     test_SuperPI_1M: 9.43,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i5',
@@ -949,6 +1001,7 @@ export const CPU_DB = [
     test_3DMark06: 6363,
     test_Passmark_CPU_Mark: 6428,
     test_SuperPI_1M: 8.96,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i5',
@@ -964,6 +1017,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 6416,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i5',
@@ -979,6 +1033,7 @@ export const CPU_DB = [
     test_3DMark06: 9744,
     test_Passmark_CPU_Mark: 8549,
     test_SuperPI_1M: 8.72,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i5',
@@ -994,6 +1049,7 @@ export const CPU_DB = [
     test_3DMark06: 9578,
     test_Passmark_CPU_Mark: 8946,
     test_SuperPI_1M: 8.14,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i5',
@@ -1039,6 +1095,7 @@ export const CPU_DB = [
     test_3DMark06: 6125,
     test_Passmark_CPU_Mark: 6998,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i7',
@@ -1054,6 +1111,7 @@ export const CPU_DB = [
     test_3DMark06: 10451,
     test_Passmark_CPU_Mark: 12985,
     test_SuperPI_1M: 8.54,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i7',
@@ -1069,6 +1127,7 @@ export const CPU_DB = [
     test_3DMark06: 6496,
     test_Passmark_CPU_Mark: 8994,
     test_SuperPI_1M: 7.8,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i7',
@@ -1084,6 +1143,7 @@ export const CPU_DB = [
     test_3DMark06: 8163,
     test_Passmark_CPU_Mark: 7347,
     test_SuperPI_1M: 7.78,
+    gpuModel: 'UHD Graphics 620',
   },
   {
     series: 'Core i7',
@@ -1099,6 +1159,7 @@ export const CPU_DB = [
     test_3DMark06: 11307,
     test_Passmark_CPU_Mark: 12623,
     test_SuperPI_1M: 8.3,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i7',
@@ -1114,6 +1175,7 @@ export const CPU_DB = [
     test_3DMark06: 9471,
     test_Passmark_CPU_Mark: 12124,
     test_SuperPI_1M: 7.7,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i7',
@@ -1129,6 +1191,7 @@ export const CPU_DB = [
     test_3DMark06: 12944,
     test_Passmark_CPU_Mark: 15995,
     test_SuperPI_1M: 7.7,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i7',
@@ -1159,6 +1222,7 @@ export const CPU_DB = [
     test_3DMark06: 13765,
     test_Passmark_CPU_Mark: 16271,
     test_SuperPI_1M: 7.8,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i9',
@@ -1174,6 +1238,7 @@ export const CPU_DB = [
     test_3DMark06: 12101,
     test_Passmark_CPU_Mark: 16014,
     test_SuperPI_1M: 7.33,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Athlon',
@@ -1189,6 +1254,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 2451,
     test_SuperPI_1M: 16.95,
+    gpuModel: 'Vega 3',
   },
   {
     series: 'Athlon',
@@ -1204,6 +1270,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 3001,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 2',
   },
   {
     series: 'Athlon',
@@ -1224,6 +1291,7 @@ export const CPU_DB = [
     test_3DMark06: 4189,
     test_Passmark_CPU_Mark: 3959,
     test_SuperPI_1M: 13.86,
+    gpuModel: 'Vega 3',
   },
   {
     series: 'Ryzen 3',
@@ -1239,6 +1307,7 @@ export const CPU_DB = [
     test_3DMark06: 3966,
     test_Passmark_CPU_Mark: 3849,
     test_SuperPI_1M: 12.72,
+    gpuModel: 'Vega 3',
   },
   {
     series: 'Ryzen 5',
@@ -1449,6 +1518,7 @@ export const CPU_DB = [
     test_3DMark06: 5501,
     test_Passmark_CPU_Mark: 5263,
     test_SuperPI_1M: 10.02,
+    gpuModel: 'UHD Graphics G1',
   },
   {
     series: 'Core i5',
@@ -1464,6 +1534,7 @@ export const CPU_DB = [
     test_3DMark06: 7976,
     test_Passmark_CPU_Mark: 8819,
     test_SuperPI_1M: 9.19,
+    gpuModel: 'Iris Plus Graphics G4',
   },
   {
     series: 'Core i5',
@@ -1479,6 +1550,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 9657,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Plus Graphics G7',
   },
   {
     series: 'Core i5',
@@ -1494,6 +1566,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 7995,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics G1',
   },
   {
     series: 'Core i5',
@@ -1519,6 +1592,7 @@ export const CPU_DB = [
     test_3DMark06: 9295,
     test_Passmark_CPU_Mark: 10467,
     test_SuperPI_1M: 11.68,
+    gpuModel: 'Iris Plus Graphics G7',
   },
   {
     series: 'Core i7',
@@ -1539,6 +1613,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 3377,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics',
   },
   {
     series: 'Celeron',
@@ -1554,6 +1629,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 4052,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics',
   },
   {
     series: 'Celeron',
@@ -1574,6 +1650,7 @@ export const CPU_DB = [
     test_3DMark06: 2053,
     test_Passmark_CPU_Mark: 2015,
     test_SuperPI_1M: 22.82,
+    gpuModel: 'UHD Graphics',
   },
   {
     series: 'Pentium',
@@ -1589,6 +1666,7 @@ export const CPU_DB = [
     test_3DMark06: 3985,
     test_Passmark_CPU_Mark: 3105,
     test_SuperPI_1M: 17.53,
+    gpuModel: 'UHD Graphics',
   },
   {
     series: 'Pentium',
@@ -1614,6 +1692,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 3421,
     test_SuperPI_1M: 11.7,
+    gpuModel: 'UHD Graphics G7',
   },
   {
     series: 'Ryzen 3',
@@ -1629,6 +1708,7 @@ export const CPU_DB = [
     test_3DMark06: 7931,
     test_Passmark_CPU_Mark: 9732,
     test_SuperPI_1M: 7,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 5',
@@ -1644,6 +1724,7 @@ export const CPU_DB = [
     test_3DMark06: 8635,
     test_Passmark_CPU_Mark: 13594,
     test_SuperPI_1M: 10.46,
+    gpuModel: 'Vega 7',
   },
   {
     series: 'Ryzen 7',
@@ -1659,6 +1740,7 @@ export const CPU_DB = [
     test_3DMark06: 11662,
     test_Passmark_CPU_Mark: 16412,
     test_SuperPI_1M: 24.58,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Athlon',
@@ -1674,6 +1756,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 2558,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Athlon',
@@ -1689,6 +1772,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 4991,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 3',
@@ -1704,6 +1788,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 9258,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 5',
@@ -1719,6 +1804,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 9802,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Core Ultra 5',
@@ -1734,7 +1820,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 17921,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 5',
@@ -1750,7 +1836,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 5',
@@ -1766,7 +1852,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18742,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 5',
@@ -1814,7 +1900,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16140,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -1830,7 +1916,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -1846,7 +1932,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16756,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -1920,6 +2006,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 23783,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 5',
@@ -1940,6 +2027,7 @@ export const CPU_DB = [
     test_3DMark06: 13021,
     test_Passmark_CPU_Mark: 25347,
     test_SuperPI_1M: 7.24,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 7',
@@ -1955,6 +2043,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 25735,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 7',
@@ -1970,6 +2059,7 @@ export const CPU_DB = [
     test_3DMark06: 15665,
     test_Passmark_CPU_Mark: 29055,
     test_SuperPI_1M: 8.77,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 7',
@@ -1985,6 +2075,7 @@ export const CPU_DB = [
     test_3DMark06: 14772,
     test_Passmark_CPU_Mark: 25840,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 9',
@@ -2000,6 +2091,7 @@ export const CPU_DB = [
     test_3DMark06: 15716,
     test_Passmark_CPU_Mark: 30868,
     test_SuperPI_1M: 7.06,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 9',
@@ -2015,6 +2107,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 28920,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Processor',
@@ -2030,6 +2123,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 9368,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i3',
@@ -2045,6 +2139,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13691,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i3',
@@ -2060,6 +2155,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 9724,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i5',
@@ -2075,6 +2171,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 21417,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2095,6 +2192,7 @@ export const CPU_DB = [
     test_3DMark06: 11552,
     test_Passmark_CPU_Mark: 20287,
     test_SuperPI_1M: 13.15,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2110,6 +2208,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 15302,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2140,6 +2239,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13669,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2190,6 +2290,7 @@ export const CPU_DB = [
     test_3DMark06: 12286,
     test_Passmark_CPU_Mark: 18725,
     test_SuperPI_1M: 7.37,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2205,6 +2306,7 @@ export const CPU_DB = [
     test_3DMark06: 14694,
     test_Passmark_CPU_Mark: 22867,
     test_SuperPI_1M: 7.1,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2220,6 +2322,7 @@ export const CPU_DB = [
     test_3DMark06: 13996,
     test_Passmark_CPU_Mark: 18931,
     test_SuperPI_1M: 7.8,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i7',
@@ -2250,6 +2353,7 @@ export const CPU_DB = [
     test_3DMark06: 13632,
     test_Passmark_CPU_Mark: 25954,
     test_SuperPI_1M: 6.74,
+    gpuModel: 'UHD Graphics 64EUs',
   },
   {
     series: 'Core i7',
@@ -2280,6 +2384,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 15544,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2295,6 +2400,7 @@ export const CPU_DB = [
     test_3DMark06: 15415,
     test_Passmark_CPU_Mark: 28457,
     test_SuperPI_1M: 6.8,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2310,6 +2416,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 22599,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2325,6 +2432,7 @@ export const CPU_DB = [
     test_3DMark06: 12534,
     test_Passmark_CPU_Mark: 19702,
     test_SuperPI_1M: 6.78,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2340,6 +2448,7 @@ export const CPU_DB = [
     test_3DMark06: 9944,
     test_Passmark_CPU_Mark: 15840,
     test_SuperPI_1M: 6.7,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2370,6 +2479,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 27322,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2385,6 +2495,7 @@ export const CPU_DB = [
     test_3DMark06: 17234,
     test_Passmark_CPU_Mark: 34684,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i9',
@@ -2400,6 +2511,7 @@ export const CPU_DB = [
     test_3DMark06: 15362,
     test_Passmark_CPU_Mark: 29547,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
@@ -2445,6 +2557,7 @@ export const CPU_DB = [
     test_3DMark06: 19311,
     test_Passmark_CPU_Mark: 45732,
     test_SuperPI_1M: 6.2,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i9',
@@ -2613,6 +2726,7 @@ export const CPU_DB = [
     test_3DMark06: 9908,
     test_Passmark_CPU_Mark: 17139,
     test_SuperPI_1M: 8.12,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2628,6 +2742,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 19052,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2643,6 +2758,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18942,
     test_SuperPI_1M: 8,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2658,6 +2774,7 @@ export const CPU_DB = [
     test_3DMark06: 11322,
     test_Passmark_CPU_Mark: 16795,
     test_SuperPI_1M: 7.94,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2688,6 +2805,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 20631,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -2703,6 +2821,7 @@ export const CPU_DB = [
     test_3DMark06: 13958,
     test_Passmark_CPU_Mark: 23625,
     test_SuperPI_1M: 9.13,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -2718,6 +2837,7 @@ export const CPU_DB = [
     test_3DMark06: 13890,
     test_Passmark_CPU_Mark: 22959,
     test_SuperPI_1M: 8.4,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -2733,6 +2853,7 @@ export const CPU_DB = [
     test_3DMark06: 11429,
     test_Passmark_CPU_Mark: 20987,
     test_SuperPI_1M: 7.7,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -2748,6 +2869,7 @@ export const CPU_DB = [
     test_3DMark06: 11620,
     test_Passmark_CPU_Mark: 23090,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 9',
@@ -2778,6 +2900,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 25012,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 9',
@@ -2833,6 +2956,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 17087,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2863,6 +2987,7 @@ export const CPU_DB = [
     test_3DMark06: 10407,
     test_Passmark_CPU_Mark: 21509,
     test_SuperPI_1M: 7.71,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -2933,6 +3058,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 2075,
     test_SuperPI_1M: 18.83,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Pentium',
@@ -2948,6 +3074,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 5421,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i3',
@@ -2963,6 +3090,7 @@ export const CPU_DB = [
     test_3DMark06: 5008,
     test_Passmark_CPU_Mark: 4132,
     test_SuperPI_1M: 9.39,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i3',
@@ -2978,6 +3106,7 @@ export const CPU_DB = [
     test_3DMark06: 6331,
     test_Passmark_CPU_Mark: 6241,
     test_SuperPI_1M: 8.24,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i3',
@@ -2998,6 +3127,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10008,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
   },
   {
     series: 'Core i5',
@@ -3013,6 +3143,7 @@ export const CPU_DB = [
     test_3DMark06: 9093,
     test_Passmark_CPU_Mark: 10117,
     test_SuperPI_1M: 8.05,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -3028,6 +3159,7 @@ export const CPU_DB = [
     test_3DMark06: 5569,
     test_Passmark_CPU_Mark: 10551,
     test_SuperPI_1M: 8.58,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -3043,6 +3175,7 @@ export const CPU_DB = [
     test_3DMark06: 7524,
     test_Passmark_CPU_Mark: 9610,
     test_SuperPI_1M: 8.32,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -3058,6 +3191,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10887,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -3073,6 +3207,7 @@ export const CPU_DB = [
     test_3DMark06: 10250,
     test_Passmark_CPU_Mark: 11081,
     test_SuperPI_1M: 7.98,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -3088,6 +3223,7 @@ export const CPU_DB = [
     test_3DMark06: 10886,
     test_Passmark_CPU_Mark: 11021,
     test_SuperPI_1M: 7.51,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i5',
@@ -3118,6 +3254,7 @@ export const CPU_DB = [
     test_3DMark06: 12041,
     test_Passmark_CPU_Mark: 15841,
     test_SuperPI_1M: 7.5,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i5',
@@ -3133,6 +3270,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 16133,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i5',
@@ -3148,6 +3286,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10250,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i7',
@@ -3163,6 +3302,7 @@ export const CPU_DB = [
     test_3DMark06: 7454,
     test_Passmark_CPU_Mark: 10370,
     test_SuperPI_1M: 7.21,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3178,6 +3318,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10917,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3193,6 +3334,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 8325,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3208,6 +3350,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 10981,
     test_SuperPI_1M: 8.08,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3223,6 +3366,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 12402,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3253,6 +3397,7 @@ export const CPU_DB = [
     test_3DMark06: 10150,
     test_Passmark_CPU_Mark: 10325,
     test_SuperPI_1M: 6.77,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3268,6 +3413,7 @@ export const CPU_DB = [
     test_3DMark06: 13513,
     test_Passmark_CPU_Mark: 20824,
     test_SuperPI_1M: 7.29,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i7',
@@ -3283,6 +3429,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 21656,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i7',
@@ -3298,6 +3445,7 @@ export const CPU_DB = [
     test_3DMark06: 9989,
     test_Passmark_CPU_Mark: 11570,
     test_SuperPI_1M: 6.75,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
