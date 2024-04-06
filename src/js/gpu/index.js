@@ -34,4 +34,4 @@ setTimeout(() => {
     gpuRef.gpu_memory_capacity.style.color = 'red';
     gpuRef.gpu_TDP.style.color = 'red';
   }
-}, 1500);
+}, 2000);

@@ -1,7 +1,7 @@
 // import '../css/style.css';
 
 // ==UserScript==
-// @name         GPU helper
+// @name         Helper
 // @namespace    http://tampermonkey.net/
 // @version      2024-04-06
 // @description  try to take over the world!

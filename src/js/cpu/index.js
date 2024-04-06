@@ -72,4 +72,4 @@ setTimeout(() => {
 
     selectSearchField.value = e.target.textContent;
   }
-}, 1500);
+}, 2000);
