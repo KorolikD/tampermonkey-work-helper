@@ -183,6 +183,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 22704,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -374,6 +375,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 29944,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i7',
@@ -421,6 +423,7 @@ export const CPU_DB = [
     test_3DMark06: 16756,
     test_Passmark_CPU_Mark: 28554,
     test_SuperPI_1M: 7.87,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
@@ -436,6 +439,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 32707,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Processor',
@@ -659,6 +663,17 @@ export const CPU_DB = [
     series: 'Ryzen 3',
     cpuModel: 'PRO 7330U',
     codename: 'Barcelo R (Zen 3)',
+    cores: 4,
+    threads: 8,
+    baseFrequency: 2.3,
+    turboFrequency: 4.3,
+    l2Cache: 2048,
+    l3Cache: 8,
+    tdp: 15,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 12846,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Vega 6',
   },
   {
     series: 'Ryzen 5',
@@ -887,6 +902,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 22947,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 9',
@@ -918,6 +934,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 21517,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Ryzen 9',
@@ -933,6 +950,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 23584,
     test_SuperPI_1M: 0,
+    gpuModel: 'Vega 8',
   },
   {
     series: 'Celeron',
@@ -1065,6 +1083,7 @@ export const CPU_DB = [
     test_3DMark06: 11157,
     test_Passmark_CPU_Mark: 12407,
     test_SuperPI_1M: 8.59,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i5',
@@ -1080,6 +1099,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 8473,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 610',
   },
   {
     series: 'Core i7',
@@ -1207,6 +1227,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 15990,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 630',
   },
   {
     series: 'Core i9',
@@ -1311,12 +1332,23 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: '7656HX',
+    cpuModel: '7645HX',
     codename: 'Dragon Range (Zen 4)',
+    cores: 6,
+    threads: 12,
+    baseFrequency: 4,
+    turboFrequency: 5,
+    l2Cache: 6144,
+    l3Cache: 32,
+    tdp: 55,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 26868,
+    test_SuperPI_1M: 8,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 7',
-    cpuModel: '7745HX ',
+    cpuModel: '7745HX',
     codename: 'Dragon Range (Zen 4)',
     cores: 8,
     threads: 16,
@@ -1328,6 +1360,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 32902,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 9',
@@ -1343,6 +1376,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 46791,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 9',
@@ -1358,6 +1392,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 55227,
     test_SuperPI_1M: 6.4,
+    gpuModel: 'Radeon 610M',
   },
   {
     series: 'Ryzen 3',
@@ -1373,6 +1408,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 740M',
   },
   {
     series: 'Ryzen 5',
@@ -1388,6 +1424,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 740M',
   },
   {
     series: 'Ryzen 5',
@@ -1403,6 +1440,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 5',
@@ -1418,6 +1456,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 5',
@@ -1433,6 +1472,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 7',
@@ -1448,6 +1488,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 7',
@@ -1463,6 +1504,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 7',
@@ -1478,6 +1520,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 7.1,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Ryzen 9',
@@ -1493,6 +1536,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 7.2,
+    gpuModel: 'Radeon 780M',
   },
   {
     series: 'Core i3',
@@ -1625,7 +1669,7 @@ export const CPU_DB = [
     turboFrequency: 2.9,
     l2Cache: 1536,
     l3Cache: 4,
-    tdp: 0,
+    tdp: 10,
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 4052,
     test_SuperPI_1M: 0,
@@ -1720,7 +1764,7 @@ export const CPU_DB = [
     turboFrequency: 4,
     l2Cache: 3072,
     l3Cache: 8,
-    tdp: 0,
+    tdp: 25,
     test_3DMark06: 8635,
     test_Passmark_CPU_Mark: 13594,
     test_SuperPI_1M: 10.46,
@@ -1986,11 +2030,33 @@ export const CPU_DB = [
     series: 'Ryzen 5',
     cpuModel: '7640U',
     codename: 'Phoenix (Zen 4)',
+    cores: 6,
+    threads: 12,
+    baseFrequency: 3.5,
+    turboFrequency: 4.9,
+    l2Cache: 6144,
+    l3Cache: 16,
+    tdp: 28,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 21568,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 5',
     cpuModel: 'PRO 7640U',
     codename: 'Phoenix (Zen 4)',
+    cores: 6,
+    threads: 12,
+    baseFrequency: 3.5,
+    turboFrequency: 4.9,
+    l2Cache: 6144,
+    l3Cache: 16,
+    tdp: 15,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 0,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 5',
@@ -2012,6 +2078,17 @@ export const CPU_DB = [
     series: 'Ryzen 5',
     cpuModel: 'PRO 7640HS',
     codename: 'Phoenix (Zen 4)',
+    cores: 6,
+    threads: 12,
+    baseFrequency: 4.3,
+    turboFrequency: 5,
+    l2Cache: 6144,
+    l3Cache: 16,
+    tdp: 54,
+    test_3DMark06: 12948,
+    test_Passmark_CPU_Mark: 22923,
+    test_SuperPI_1M: '7.9',
+    gpuModel: 'Radeon 760M',
   },
   {
     series: 'Ryzen 7',
@@ -2177,6 +2254,17 @@ export const CPU_DB = [
     series: 'Core i5',
     cpuModel: '13505H',
     codename: 'Raptor Lake (13th Gen)',
+    cores: '12 (4P+8E)',
+    threads: 16,
+    baseFrequency: 1.9,
+    turboFrequency: 4.7,
+    l2Cache: 9216,
+    l3Cache: 18,
+    tdp: 45,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 0,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
@@ -2224,6 +2312,7 @@ export const CPU_DB = [
     test_3DMark06: 14017,
     test_Passmark_CPU_Mark: 25129,
     test_SuperPI_1M: 7.2,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i5',
@@ -2255,11 +2344,23 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 25569,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
   },
   {
     series: 'Core i5',
     cpuModel: '13600HX',
     codename: 'Raptor Lake (13th Gen)',
+    cores: '14 (6P+8E)',
+    threads: 24,
+    baseFrequency: 1.9,
+    turboFrequency: 4.8,
+    l2Cache: 20480,
+    l3Cache: 24,
+    tdp: 55,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 29322,
+    test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i5',
@@ -2275,6 +2376,7 @@ export const CPU_DB = [
     test_3DMark06: 15927,
     test_Passmark_CPU_Mark: 28115,
     test_SuperPI_1M: 7.7,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i5',
@@ -2338,6 +2440,7 @@ export const CPU_DB = [
     test_3DMark06: 16051,
     test_Passmark_CPU_Mark: 32125,
     test_SuperPI_1M: 6.7,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i7',
@@ -2369,6 +2472,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 24975,
     test_SuperPI_1M: 6.9,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2464,6 +2568,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 38563,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i7',
@@ -2527,6 +2632,7 @@ export const CPU_DB = [
     test_3DMark06: 19734,
     test_Passmark_CPU_Mark: 48268,
     test_SuperPI_1M: 7.42,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i9',
@@ -2542,6 +2648,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 33167,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
@@ -2573,6 +2680,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 31817,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i9',
@@ -2588,6 +2696,7 @@ export const CPU_DB = [
     test_3DMark06: 18036,
     test_Passmark_CPU_Mark: 46359,
     test_SuperPI_1M: 6.21,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i5',
@@ -2603,6 +2712,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i5',
@@ -2618,6 +2728,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -2633,6 +2744,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 39432,
     test_SuperPI_1M: 6.4,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i7',
@@ -2648,6 +2760,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 37270,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics 770',
   },
   {
     series: 'Core i9',
@@ -2663,6 +2776,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 47419,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core 3',
@@ -2790,6 +2904,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 20103,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 7',
@@ -2885,6 +3000,7 @@ export const CPU_DB = [
     test_3DMark06: 14208,
     test_Passmark_CPU_Mark: 24051,
     test_SuperPI_1M: 8.99,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 9',
@@ -2906,6 +3022,17 @@ export const CPU_DB = [
     series: 'Ryzen 9',
     cpuModel: '6980HS',
     codename: 'Rembrandt (Zen 3+)',
+    cores: 8,
+    threads: 16,
+    baseFrequency: 3.3,
+    turboFrequency: 5,
+    l2Cache: 4096,
+    l3Cache: 16,
+    tdp: 35,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 0,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 9',
@@ -2921,6 +3048,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 9',
@@ -2936,11 +3064,22 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 23590,
     test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 3',
     cpuModel: '7335U',
     codename: 'Rembrandt R (Zen 3+)',
+    cores: 4,
+    threads: 8,
+    baseFrequency: 3,
+    turboFrequency: 4.3,
+    l2Cache: 2048,
+    l3Cache: 8,
+    tdp: 28,
+    test_3DMark06: 0,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 5',
@@ -2972,6 +3111,7 @@ export const CPU_DB = [
     test_3DMark06: 12242,
     test_Passmark_CPU_Mark: 18372,
     test_SuperPI_1M: 8.49,
+    gpuModel: 'Radeon 660M',
   },
   {
     series: 'Ryzen 7',
@@ -2993,6 +3133,17 @@ export const CPU_DB = [
     series: 'Ryzen 7',
     cpuModel: '7736U',
     codename: 'Rembrandt R (Zen 3+)',
+    cores: 8,
+    threads: 16,
+    baseFrequency: 2.7,
+    turboFrequency: 4.7,
+    l2Cache: 4096,
+    l3Cache: 16,
+    tdp: 28,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 22195,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Ryzen 7',
@@ -3008,6 +3159,7 @@ export const CPU_DB = [
     test_3DMark06: 13372,
     test_Passmark_CPU_Mark: 24689,
     test_SuperPI_1M: 7.8,
+    gpuModel: 'Radeon 680M',
   },
   {
     series: 'Core i5',
@@ -3028,6 +3180,7 @@ export const CPU_DB = [
     test_3DMark06: 16388,
     test_Passmark_CPU_Mark: 25109,
     test_SuperPI_1M: 20.2,
+    gpuModel: 'UHD Graphics Xe 750 32EUs',
   },
   {
     series: 'Core i9',
@@ -3043,6 +3196,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 25641,
     test_SuperPI_1M: 6.27,
+    gpuModel: 'UHD Graphics Xe 750 32EUs',
   },
   {
     series: 'Celeron',
@@ -3239,6 +3393,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 15074,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
     series: 'Core i5',
@@ -3382,6 +3537,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 13110,
     test_SuperPI_1M: 0,
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
   },
   {
     series: 'Core i7',
@@ -3461,6 +3617,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 21948,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i9',
@@ -3476,6 +3633,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 23364,
     test_SuperPI_1M: 6.82,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Core i9',
@@ -3491,6 +3649,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 22989,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Xeon',
@@ -3506,6 +3665,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 19121,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Xeon',
@@ -3521,6 +3681,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 24231,
     test_SuperPI_1M: 0,
+    gpuModel: 'UHD Graphics Xe 32EUs',
   },
   {
     series: 'Ryzen 5',
