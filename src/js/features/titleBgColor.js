@@ -32,8 +32,10 @@ const template = [];
 for (const key in blockTitles) {
   if (Object.hasOwnProperty.call(blockTitles, key)) {
     const element = blockTitles[key];
+    element.id = element.textContent.trim();
+
     template.push(`<li data-title='${element.textContent.trim()}'>
-    <p>${element.textContent.trim()}</p>
+    <a href="#${element.textContent.trim()}">${element.textContent.trim()}</a>
     </li>`);
   }
 }
@@ -42,6 +44,29 @@ list.insertAdjacentHTML('beforeend', template.join(''));
 container.append(customStyles, list);
 
 const createdList = document.querySelector('.custom-title-list');
+
+createdList.addEventListener('click', event => {
+  if (event.target.nodeName !== 'A') {
+    return;
+  }
+  event.preventDefault();
+
+  // Отримуємо ідентифікатор якірного елемента з атрибута href
+  const anchorId = event.target.getAttribute('href').substr(1);
+
+  // Отримуємо елемент за його ідентифікатором
+  const anchorElement = document.getElementById(anchorId);
+
+  // Отримуємо вертикальне положення цільового елемента на сторінці
+  const targetOffset = anchorElement.parentNode.offsetTop;
+
+  // Прокручуємо сторінку до цільового елемента
+  window.scrollTo({
+    top: targetOffset,
+    behavior: 'smooth',
+  });
+});
+
 const listElements = createdList.children;
 
 blockTitles.forEach(blockTitle => {
