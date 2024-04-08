@@ -17,6 +17,15 @@ import { runNavigationScrypt } from './features/titleBgColor';
 import { runGpuScrypt } from './gpu';
 import { runCpuScrypt } from './cpu';
 
+// Скрол догори після натискання на кнопку копіювання даних
+const pageHref = window.location.href;
+if (pageHref.includes('/edit/')) {
+  const copyButton = document.getElementById('fast_copy_form_copy_data');
+  copyButton.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+}
+
 // Кнопка запуску скрипта в хедері
 const container = document.querySelector('.navbar.navbar-fixed-top.navbar-shadow');
 createButton(container, 'helper');
