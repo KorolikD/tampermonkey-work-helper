@@ -7,7 +7,7 @@ import { cpuDefaultData } from './cpuDefaultData';
 import { inputData } from '../inputData';
 import { refGeneration } from '../refGeneration';
 
-setTimeout(() => {
+export function runCpuScrypt() {
   // Створюємо шляхи до полів вводу
   const cpuRef = {};
   refGeneration(cpuDomIds, cpuRef);
@@ -72,4 +72,4 @@ setTimeout(() => {
 
     selectSearchField.value = e.target.textContent;
   }
-}, 2000);
+}

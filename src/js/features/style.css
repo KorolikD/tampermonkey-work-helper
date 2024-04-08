@@ -16,3 +16,11 @@
 .custom-title-list p {
   margin: 0;
 }
+
+/* .custom-navigation-link {
+  transition: all 0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98);
+}
+
+.custom-navigation-link:hover {
+  background-color: #dcedf9;
+} */

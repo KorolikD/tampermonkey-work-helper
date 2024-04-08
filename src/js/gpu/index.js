@@ -7,7 +7,7 @@ import { gpuDefaultData } from './gpuDefaultData';
 import { inputData } from '../inputData';
 import { refGeneration } from '../refGeneration';
 
-setTimeout(() => {
+export function runGpuScrypt() {
   // Створюємо шляхи до полів вводу
   const gpuRef = {};
 
@@ -34,4 +34,4 @@ setTimeout(() => {
     gpuRef.gpu_memory_capacity.style.color = 'red';
     gpuRef.gpu_TDP.style.color = 'red';
   }
-}, 2000);
+}
