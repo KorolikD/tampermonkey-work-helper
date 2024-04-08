@@ -12,5 +12,6 @@
 // @grant        none
 // ==/UserScript==
 
+import './features';
 import './cpu';
 import './gpu';
