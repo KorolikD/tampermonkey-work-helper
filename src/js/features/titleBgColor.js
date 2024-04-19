@@ -90,14 +90,14 @@ export function runNavigationScrypt() {
       return;
     }
 
-    e.target.style.backgroundColor = '#D6FFCC';
+    e.target.style.backgroundColor = '#b3ebad';
 
     for (const key in listElements) {
       if (Object.hasOwnProperty.call(listElements, key)) {
         const element = listElements[key];
 
         if (element.dataset.title === e.target.textContent.trim()) {
-          element.style.backgroundColor = '#D6FFCC';
+          element.style.backgroundColor = '#b3ebad';
         }
       }
     }

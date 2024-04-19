@@ -3721,5 +3721,37 @@
     "series": "Ryzen 9",
     "cpuModel": "5950X",
     "codename": "Vermeer (Zen 3)"
+  },
+  {
+    "series": "Ryzen 5",
+    "cpuModel": "PRO 7540U",
+    "codename": "Phoenix (Zen 4)",
+    "cores": 6,
+    "threads": 12,
+    "baseFrequency": 3.2,
+    "turboFrequency": 4.9,
+    "l2Cache": 6144,
+    "l3Cache": 16,
+    "tdp": 15,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 18198,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Radeon 740M"
+  },
+  {
+    "series": "Ryzen 7",
+    "cpuModel": "PRO 7840U",
+    "codename": "Phoenix (Zen 4)",
+    "cores": 8,
+    "threads": 16,
+    "baseFrequency": 3.3,
+    "turboFrequency": 5.1,
+    "l2Cache": 8192,
+    "l3Cache": 16,
+    "tdp": 28,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 24878,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Radeon 780M"
   }
 ]

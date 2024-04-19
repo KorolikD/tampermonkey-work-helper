@@ -10,19 +10,19 @@ export function createButton(elementRef, buttonFor) {
   }
 
   if (buttonFor === 'gpu') {
-    button.style.backgroundColor = '#D6FFCC';
+    button.style.backgroundColor = '#b3ebad';
     button.style.color = 'green';
     elementRef.prepend(button);
   }
 
   if (buttonFor === 'cpu') {
-    button.style.backgroundColor = '#cce4ff';
+    button.style.backgroundColor = '#add6eb';
     button.style.color = 'blue';
     elementRef.prepend(button);
   }
 
   if (buttonFor === 'cpu-gpu') {
-    button.style.backgroundColor = '#cce4ff';
+    button.style.backgroundColor = '#add6eb';
     button.style.color = 'blue';
     elementRef.prepend(button);
   }
