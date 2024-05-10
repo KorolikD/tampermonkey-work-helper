@@ -1905,6 +1905,7 @@ export const GPU_DB = [
     God_of_War_ultraFullHD: 0,
     God_of_War_ultraHD4K: 0,
     gpu_type: 3749,
+    gpu_series: 33630,
     vr_support: false,
     memory_type: 3846,
     test_3DMark_Vantage_P: 0,

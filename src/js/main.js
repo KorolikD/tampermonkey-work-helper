@@ -3,7 +3,7 @@
 // ==UserScript==
 // @name         Helper
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-08
+// @version      2024-05-10
 // @description  try to take over the world!
 // @author       KorolikD
 
