@@ -14,6 +14,7 @@
 
 import { createButton } from './createButton';
 import { runNavigationScrypt } from './features/titleBgColor';
+import { resetRadioButtons } from './features/resetRadioButtons';
 import { runGpuScrypt } from './gpu';
 import { runCpuScrypt } from './cpu';
 
@@ -35,6 +36,16 @@ customButton.addEventListener('click', () => {
   if (pageHref.includes('/edit/')) {
     runGpuScrypt();
     runCpuScrypt();
+  }
+});
+
+// Кнопка запуску скрипта resetRadioButtons в хедері
+createButton(container, 'resetRadioButtons');
+const resetRadioButton = document.querySelector('.custom-resetRadioButtons-button');
+resetRadioButton.addEventListener('click', () => {
+  const pageHref = window.location.href;
+  if (pageHref.includes('/edit/')) {
+    resetRadioButtons();
   }
 });
 
