@@ -8,12 +8,9 @@ export const resetRadioButtons = () => {
     'good_A5_2',
     'good_A41_2',
     'good_A1_2',
-    'good_A2_2',
-    'good_A38_2',
     'good_A19_2',
     'good_A64_2',
     'good_A65_2',
-    'good_A44_2',
     'good_A21_2',
     'good_A36_2',
     'good_A28_2',
@@ -32,11 +29,8 @@ export const resetRadioButtons = () => {
     'good_A17_2',
     'good_A60_2',
     'good_A49_2',
-    'good_A22_2',
-    'good_A6_2',
     'good_A42_2',
     'good_A54_2',
-    'good_A20_2',
     'good_A24_2',
     'good_A11_2',
     'good_A29_2',
@@ -57,6 +51,10 @@ export const resetRadioButtons = () => {
   ];
 
   radioButtonsIds.forEach(element => {
-    document.getElementById(element).checked = true;
+    try {
+      document.getElementById(element).checked = true;
+    } catch (error) {
+      console.error('resetRadioButtons error', error);
+    }
   });
 };
