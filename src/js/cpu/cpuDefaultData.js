@@ -9,8 +9,8 @@ export const cpuDefaultData = {
   baseFrequency: 0,
   turboFrequency: 0,
 
-  l2Cache: 0,
-  l3Cache: 0,
+  // l2Cache: 0,
+  // l3Cache: 0,
 
   tdp: 0,
 

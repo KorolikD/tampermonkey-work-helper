@@ -9,15 +9,15 @@ export const gpuDefaultData = {
   test_3DMark06: 0,
   test_3DMark_Vantage_P: 0,
 
-  GTA_V_heightFullHD: 0,
-  GTA_V_ultraFullHD: 0,
-  GTA_V_ultraHD4K: 0,
+  // GTA_V_heightFullHD: 0,
+  // GTA_V_ultraFullHD: 0,
+  // GTA_V_ultraHD4K: 0,
 
-  Cyberpunk_2077_heightFullHD: 0,
-  Cyberpunk_2077_ultraFullHD: 0,
-  Cyberpunk_2077_ultraHD4K: 0,
+  // Cyberpunk_2077_heightFullHD: 0,
+  // Cyberpunk_2077_ultraFullHD: 0,
+  // Cyberpunk_2077_ultraHD4K: 0,
 
-  God_of_War_heightFullHD: 0,
-  God_of_War_ultraFullHD: 0,
-  God_of_War_ultraHD4K: 0,
+  // God_of_War_heightFullHD: 0,
+  // God_of_War_ultraFullHD: 0,
+  // God_of_War_ultraHD4K: 0,
 };
