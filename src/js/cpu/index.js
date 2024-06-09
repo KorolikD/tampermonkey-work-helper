@@ -6,11 +6,36 @@ import { createButton } from '../createButton';
 import { cpuDefaultData } from './cpuDefaultData';
 import { inputData } from '../inputData';
 import { refGeneration } from '../refGeneration';
+import { gpuDefaultData } from '../gpu/gpuDefaultData';
+import { gpuDomIds } from '../gpu/gpuDomIds';
 
 export function runCpuScrypt() {
   // Створюємо шляхи до полів вводу
   const cpuRef = {};
+  const gpuRef = {};
   refGeneration(cpuDomIds, cpuRef);
+  refGeneration(gpuDomIds, gpuRef);
+
+  // Слухач на зміну даних в інпуті
+  cpuRef.cpuModel.addEventListener('input', onCpuModelInput);
+
+  function onCpuModelInput(e) {
+    const input = e.target;
+
+    if (input.value === '') {
+      input.style.color = null;
+      return;
+    }
+
+    const cpuModelData = CPU_DB.find(el => el.cpuModel.trim() === input.value.trim());
+
+    if (!cpuModelData) {
+      input.style.color = 'red';
+      return;
+    }
+
+    input.style.color = '#37ac2a';
+  }
 
   // Відмальовуємо кнопки
   const cpuButtonField = document.getElementById('id_cprop_6462');
@@ -25,13 +50,25 @@ export function runCpuScrypt() {
   customCpuButton.addEventListener('click', onCpuButton);
 
   function onCpuButton() {
+    cpuRef.cpuModel.style.color = null;
+    cpuRef.cpuModel.style.border = '1px solid orange';
+
+    cpuRef.series.style.color = null;
+    cpuRef.codename.style.color = null;
+    cpuRef.cores.style.color = null;
+
     const cpuModelData = CPU_DB.find(el => el.cpuModel.trim() === cpuModelInput.value.trim());
 
     if (!cpuModelData) {
       inputData(cpuRef, cpuDefaultData);
+      cpuModelInput.value = '';
       return;
     }
+
     inputData(cpuRef, cpuModelData);
+
+    cpuRef.cpuModel.style.color = '#37ac2a';
+    cpuRef.cpuModel.style.border = null;
 
     cpuRef.series.style.color = 'red';
     cpuRef.codename.style.color = 'red';
@@ -39,19 +76,25 @@ export function runCpuScrypt() {
   }
 
   // Логіка кліку на custom-cpu-gpu-button
-  const cpuGraphic = document.getElementById('good_T3');
+  const gpuModelInput = document.getElementById('good_T3');
   const cpuGraphicButton = document.querySelector('.custom-cpu-gpu-button');
   cpuGraphicButton.addEventListener('click', onCpuGraphicButton);
 
   function onCpuGraphicButton() {
+    inputData(gpuRef, gpuDefaultData);
+    gpuModelInput.style.color = null;
+    gpuRef.gpu_memory_capacity.style.color = null;
+    gpuRef.gpu_TDP.style.color = null;
+
     const cpuGraphicData = CPU_DB.find(el => el.cpuModel.trim() === cpuModelInput.value.trim());
 
     if (!cpuGraphicData) {
-      cpuGraphic.value = '';
+      gpuModelInput.value = '';
       return;
     }
 
-    cpuGraphic.value = cpuGraphicData.gpuModel;
+    gpuModelInput.value = cpuGraphicData.gpuModel;
+    gpuModelInput.style.color = '#37ac2a';
   }
 
   // Логіка кліку на Кастомні селекти

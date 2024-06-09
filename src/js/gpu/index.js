@@ -10,27 +10,61 @@ import { refGeneration } from '../refGeneration';
 export function runGpuScrypt() {
   // Створюємо шляхи до полів вводу
   const gpuRef = {};
+  const gpuModelInput = document.getElementById('good_T3');
 
   refGeneration(gpuDomIds, gpuRef);
+
+  // Слухач на зміну даних в інпуті
+  gpuModelInput.addEventListener('input', onGpuModelInput);
+
+  function onGpuModelInput(e) {
+    const input = e.target;
+
+    if (input.value === '') {
+      input.style.color = null;
+      return;
+    }
+
+    const gpuModelData = GPU_DB.find(el => el.GPU.trim() === input.value.trim());
+
+    if (!gpuModelData) {
+      input.style.color = 'red';
+      return;
+    }
+
+    input.style.color = '#37ac2a';
+  }
 
   // Відмальовуємо кнопку
   const buttonsField = document.getElementById('id_cprop_6474');
   createButton(buttonsField, 'gpu');
 
   // Логіка кліку на нашу кнопку
-  const gpuModel = document.getElementById('good_T3');
   const customButton = document.querySelector('.custom-gpu-button');
   customButton.addEventListener('click', onGpuButton);
 
   function onGpuButton() {
-    const gpuModelData = GPU_DB.find(el => el.GPU.trim() === gpuModel.value.trim());
+    gpuModelInput.style.border = '1px solid orange';
+    gpuRef.gpu_memory_capacity.style.color = null;
+    gpuRef.gpu_TDP.style.color = null;
+
+    const gpuModelData = GPU_DB.find(el => el.GPU.trim() === gpuModelInput.value.trim());
 
     if (!gpuModelData) {
       inputData(gpuRef, gpuDefaultData);
+      gpuModelInput.value = '';
       return;
     }
 
     inputData(gpuRef, gpuModelData);
+    gpuModelInput.style.border = null;
+
+    if (gpuModelData.gpu_type === 3749) {
+      gpuModelInput.style.color = '#37ac2a';
+      return;
+    }
+
+    gpuModelInput.style.color = '#37ac2a';
     gpuRef.gpu_memory_capacity.style.color = 'red';
     gpuRef.gpu_TDP.style.color = 'red';
   }
