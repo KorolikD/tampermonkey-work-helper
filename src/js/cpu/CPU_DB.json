@@ -337,7 +337,7 @@
     "test_3DMark06": 13918,
     "test_Passmark_CPU_Mark": 26665,
     "test_SuperPI_1M": 7.92,
-    "gpuModel": "Iris Xe Graphics G7 80EUs"
+    "gpuModel": "Iris Xe Graphics G7 96EUs"
   },
   {
     "series": "Core i7",
@@ -684,6 +684,22 @@
     "test_Passmark_CPU_Mark": 12846,
     "test_SuperPI_1M": 0,
     "gpuModel": "Vega 6"
+  },
+  {
+    "series": "Ryzen 5",
+    "cpuModel": "7430U",
+    "codename": "Barcelo R (Zen 3)",
+    "cores": 6,
+    "threads": 12,
+    "baseFrequency": 2.3,
+    "turboFrequency": 4.3,
+    "l2Cache": 3072,
+    "l3Cache": 16,
+    "tdp": 15,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 14730,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Vega 7"
   },
   {
     "series": "Ryzen 5",
@@ -3107,6 +3123,22 @@
     "gpuModel": "Radeon 660M"
   },
   {
+    "series": "Ryzen 3",
+    "cpuModel": "PRO 7335U",
+    "codename": "Rembrandt R (Zen 3+)",
+    "cores": 4,
+    "threads": 8,
+    "baseFrequency": 3,
+    "turboFrequency": 4.3,
+    "l2Cache": 2048,
+    "l3Cache": 8,
+    "tdp": 28,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 12333,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Radeon 660M"
+  },
+  {
     "series": "Ryzen 5",
     "cpuModel": "7535U",
     "codename": "Rembrandt R (Zen 3+)",
@@ -3119,6 +3151,22 @@
     "tdp": 28,
     "test_3DMark06": 0,
     "test_Passmark_CPU_Mark": 17087,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Radeon 660M"
+  },
+  {
+    "series": "Ryzen 5",
+    "cpuModel": "PRO 7535U",
+    "codename": "Rembrandt R (Zen 3+)",
+    "cores": 6,
+    "threads": 12,
+    "baseFrequency": 2.9,
+    "turboFrequency": 4.55,
+    "l2Cache": 3072,
+    "l3Cache": 16,
+    "tdp": 28,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 16982,
     "test_SuperPI_1M": 0,
     "gpuModel": "Radeon 660M"
   },
@@ -3152,6 +3200,22 @@
     "test_3DMark06": 10407,
     "test_Passmark_CPU_Mark": 21509,
     "test_SuperPI_1M": 7.71,
+    "gpuModel": "Radeon 680M"
+  },
+  {
+    "series": "Ryzen 7",
+    "cpuModel": " PRO 7735U",
+    "codename": "Rembrandt R (Zen 3+)",
+    "cores": 8,
+    "threads": 16,
+    "baseFrequency": 2.7,
+    "turboFrequency": 4.75,
+    "l2Cache": 4096,
+    "l3Cache": 16,
+    "tdp": 28,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 21474,
+    "test_SuperPI_1M": 0,
     "gpuModel": "Radeon 680M"
   },
   {
@@ -3827,5 +3891,69 @@
     "test_Passmark_CPU_Mark": 8614,
     "test_SuperPI_1M": 0,
     "gpuModel": "Radeon 610M"
+  },
+  {
+    "series": "Snapdragon X Elite",
+    "cpuModel": "X1E-84-100",
+    "codename": "нет данных",
+    "cores": 12,
+    "threads": 12,
+    "baseFrequency": 3.8,
+    "turboFrequency": 4.2,
+    "l2Cache": 0,
+    "l3Cache": 0,
+    "tdp": 0,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 0,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Adreno GPU"
+  },
+  {
+    "series": "Snapdragon X Elite",
+    "cpuModel": "X1E-80-100",
+    "codename": "нет данных",
+    "cores": 12,
+    "threads": 12,
+    "baseFrequency": 3.4,
+    "turboFrequency": 4,
+    "l2Cache": 0,
+    "l3Cache": 0,
+    "tdp": 0,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 0,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Adreno GPU"
+  },
+  {
+    "series": "Snapdragon X Elite",
+    "cpuModel": "X1E-78-100",
+    "codename": "нет данных",
+    "cores": 12,
+    "threads": 12,
+    "baseFrequency": 3.4,
+    "turboFrequency": 0,
+    "l2Cache": 0,
+    "l3Cache": 0,
+    "tdp": 0,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 0,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Adreno GPU"
+  },
+  {
+    "series": "Snapdragon X Plus",
+    "cpuModel": "X1P-64-100",
+    "codename": "нет данных",
+    "cores": 10,
+    "threads": 10,
+    "baseFrequency": 3.4,
+    "turboFrequency": 0,
+    "l2Cache": 0,
+    "l3Cache": 0,
+    "tdp": 0,
+    "test_3DMark06": 0,
+    "test_Passmark_CPU_Mark": 0,
+    "test_SuperPI_1M": 0,
+    "gpuModel": "Adreno GPU"
   }
 ]

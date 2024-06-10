@@ -2232,7 +2232,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": false,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX A4500",
@@ -2292,7 +2298,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": true,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 63738,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX A1000",
@@ -2304,7 +2316,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": false,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 58312,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 5000 Ada",
@@ -2340,7 +2358,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": true,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 3500",
@@ -2364,7 +2388,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": true,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   },
   {
     "GPU": "RTX 2000 Ada",
@@ -2376,7 +2406,13 @@
     "Cyberpunk_2077_ultraHD4K": 0,
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
-    "God_of_War_ultraHD4K": 0
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": true,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 37844,
+    "test_3DMark06": 0
   },
   {
     "GPU": "T600",
@@ -2413,5 +2449,41 @@
     "God_of_War_heightFullHD": 0,
     "God_of_War_ultraFullHD": 0,
     "God_of_War_ultraHD4K": 0
+  },
+  {
+    "GPU": "RTX 4000 Ada",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3750,
+    "gpu_series": 26808,
+    "vr_support": true,
+    "memory_type": 20913,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
+  },
+  {
+    "GPU": "Adreno GPU",
+    "GTA_V_heightFullHD": 0,
+    "GTA_V_ultraFullHD": 0,
+    "GTA_V_ultraHD4K": 0,
+    "Cyberpunk_2077_heightFullHD": 0,
+    "Cyberpunk_2077_ultraFullHD": 0,
+    "Cyberpunk_2077_ultraHD4K": 0,
+    "God_of_War_heightFullHD": 0,
+    "God_of_War_ultraFullHD": 0,
+    "God_of_War_ultraHD4K": 0,
+    "gpu_type": 3749,
+    "gpu_series": 21326,
+    "vr_support": false,
+    "memory_type": 3846,
+    "test_3DMark_Vantage_P": 0,
+    "test_3DMark06": 0
   }
 ]
