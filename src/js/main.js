@@ -3,7 +3,7 @@
 // ==UserScript==
 // @name         Helper
 // @namespace    http://tampermonkey.net/
-// @version      2024-06-10
+// @version      2024-06-11
 // @description  try to take over the world!
 // @author       KorolikD
 
@@ -13,10 +13,10 @@
 // ==/UserScript==
 
 import { createButton } from './createButton';
-import { runNavigationScrypt } from './features/titleBgColor';
-import { resetRadioButtons } from './features/resetRadioButtons';
-import { runGpuScrypt } from './gpu';
-import { runCpuScrypt } from './cpu';
+import { navigation } from './features';
+import { resetRadioButtons } from './features';
+import { gpuHelper } from './features';
+import { cpuHelper } from './features';
 
 // Скрол догори після натискання на кнопку копіювання даних
 const pageHref = window.location.href;
@@ -31,11 +31,13 @@ if (pageHref.includes('/edit/')) {
 const container = document.querySelector('.navbar.navbar-fixed-top.navbar-shadow');
 createButton(container, 'helper');
 const customButton = document.querySelector('.custom-helper-button');
+let isReadyToRunHelper = true;
 customButton.addEventListener('click', () => {
   const pageHref = window.location.href;
-  if (pageHref.includes('/edit/')) {
-    runGpuScrypt();
-    runCpuScrypt();
+  if (pageHref.includes('/edit/') && isReadyToRunHelper) {
+    gpuHelper();
+    cpuHelper();
+    isReadyToRunHelper = false;
   }
 });
 
@@ -50,12 +52,13 @@ resetRadioButton.addEventListener('click', () => {
 });
 
 // Слухач на комбінацію Ctrl+Shift+Q
-document.addEventListener('keydown', onKeyDown);
-function onKeyDown(event) {
+let isReadyToRunNavigationScrypt = true;
+document.addEventListener('keydown', event => {
   const pageHref = window.location.href;
   if ((event.ctrlKey || event.metaKey) && event.shiftKey && event.code === 'KeyQ') {
-    if (pageHref.includes('/edit/')) {
-      runNavigationScrypt();
+    if (pageHref.includes('/edit/') && isReadyToRunNavigationScrypt) {
+      navigation();
+      isReadyToRunNavigationScrypt = false;
     }
   }
-}
+});

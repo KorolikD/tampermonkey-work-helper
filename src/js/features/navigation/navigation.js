@@ -1,4 +1,4 @@
-export function runNavigationScrypt() {
+export function navigation() {
   const blockTitles = document.querySelectorAll('.tabs-divider-grey span');
   const container = document.querySelector('.form-horizontal');
 
@@ -43,14 +43,14 @@ export function runNavigationScrypt() {
 
   const createdList = document.querySelector('.custom-title-list');
 
-  createdList.addEventListener('click', event => {
-    if (event.target.nodeName !== 'A') {
+  createdList.addEventListener('click', e => {
+    if (e.target.nodeName !== 'A') {
       return;
     }
-    event.preventDefault();
+    e.preventDefault();
 
     // Отримуємо ідентифікатор якірного елемента з атрибута href
-    const anchorId = event.target.getAttribute('href').substr(1);
+    const anchorId = e.target.getAttribute('href').substr(1);
 
     // Отримуємо елемент за його ідентифікатором
     const anchorElement = document.getElementById(anchorId);

@@ -1,0 +1,26 @@
+.container-fluid.posr.pt15.pb20 {
+  position: relative;
+}
+
+.custom-title-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  position: fixed;
+  top: 50%;
+  right: 24px;
+  transform: translateY(-50%);
+}
+
+.custom-title-list p {
+  margin: 0;
+}
+
+/* .custom-navigation-link {
+  transition: all 0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98);
+}
+
+.custom-navigation-link:hover {
+  background-color: #dcedf9;
+} */

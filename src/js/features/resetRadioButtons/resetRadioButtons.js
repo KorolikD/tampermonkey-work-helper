@@ -9,7 +9,7 @@ export const resetRadioButtons = () => {
     try {
       document.getElementById(element).checked = true;
     } catch (error) {
-      // console.error('resetRadioButtons error', error);
+      console.log('🤬>>>  resetRadioButtons error:\n', error);
     }
   });
 };

@@ -30,7 +30,7 @@ export function createButton(elementRef, buttonFor) {
     elementRef.prepend(button);
   }
 
-  if (buttonFor === 'cpu-gpu') {
+  if (buttonFor === 'cpu-graphic') {
     button.style.backgroundColor = '#add6eb';
     button.style.color = 'blue';
     elementRef.prepend(button);

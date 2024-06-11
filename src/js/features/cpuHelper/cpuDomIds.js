@@ -9,9 +9,6 @@ export const cpuDomIds = {
   baseFrequency: 'good_R7',
   turboFrequency: 'good_R12',
 
-  // l2Cache: 'good_I4',
-  // l3Cache: 'good_R4',
-
   tdp: 'good_R22',
 
   test_3DMark06: 'good_I3',

@@ -1,7 +1,7 @@
 // Дані всіх відеокарт
 export const GPU_DB = [
   {
-    GPU: 'RTX 4090',
+    gpuModel: 'RTX 4090',
     GTA_V_heightFullHD: 184,
     GTA_V_ultraFullHD: 141,
     GTA_V_ultraHD4K: 105,
@@ -19,7 +19,7 @@ export const GPU_DB = [
     test_3DMark06: 64691,
   },
   {
-    GPU: 'RTX 4080',
+    gpuModel: 'RTX 4080',
     GTA_V_heightFullHD: 183,
     GTA_V_ultraFullHD: 133,
     GTA_V_ultraHD4K: 98,
@@ -37,7 +37,7 @@ export const GPU_DB = [
     test_3DMark06: 58651,
   },
   {
-    GPU: 'RTX 4070',
+    gpuModel: 'RTX 4070',
     GTA_V_heightFullHD: 182,
     GTA_V_ultraFullHD: 121,
     GTA_V_ultraHD4K: 89,
@@ -55,7 +55,7 @@ export const GPU_DB = [
     test_3DMark06: 55349,
   },
   {
-    GPU: 'RTX 4060',
+    gpuModel: 'RTX 4060',
     GTA_V_heightFullHD: 180,
     GTA_V_ultraFullHD: 112,
     GTA_V_ultraHD4K: 82,
@@ -73,7 +73,7 @@ export const GPU_DB = [
     test_3DMark06: 49745,
   },
   {
-    GPU: 'RTX 4050',
+    gpuModel: 'RTX 4050',
     GTA_V_heightFullHD: 177,
     GTA_V_ultraFullHD: 92,
     GTA_V_ultraHD4K: 64,
@@ -91,7 +91,7 @@ export const GPU_DB = [
     test_3DMark06: 50886,
   },
   {
-    GPU: 'RTX 3080 Ti',
+    gpuModel: 'RTX 3080 Ti',
     GTA_V_heightFullHD: 177,
     GTA_V_ultraFullHD: 116,
     GTA_V_ultraHD4K: 78,
@@ -109,7 +109,7 @@ export const GPU_DB = [
     test_3DMark06: 56967,
   },
   {
-    GPU: 'RTX 3080',
+    gpuModel: 'RTX 3080',
     GTA_V_heightFullHD: 154,
     GTA_V_ultraFullHD: 91,
     GTA_V_ultraHD4K: 83,
@@ -127,7 +127,7 @@ export const GPU_DB = [
     test_3DMark06: 44856,
   },
   {
-    GPU: 'RTX 3080 Max-Q',
+    gpuModel: 'RTX 3080 Max-Q',
     GTA_V_heightFullHD: 144,
     GTA_V_ultraFullHD: 84,
     GTA_V_ultraHD4K: 76,
@@ -145,7 +145,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 3070 Ti',
+    gpuModel: 'RTX 3070 Ti',
     GTA_V_heightFullHD: 171,
     GTA_V_ultraFullHD: 117,
     GTA_V_ultraHD4K: 77,
@@ -163,7 +163,7 @@ export const GPU_DB = [
     test_3DMark06: 50062,
   },
   {
-    GPU: 'RTX 3070',
+    gpuModel: 'RTX 3070',
     GTA_V_heightFullHD: 141,
     GTA_V_ultraFullHD: 85,
     GTA_V_ultraHD4K: 77,
@@ -181,7 +181,7 @@ export const GPU_DB = [
     test_3DMark06: 47262,
   },
   {
-    GPU: 'RTX 3070 Max-Q',
+    gpuModel: 'RTX 3070 Max-Q',
     GTA_V_heightFullHD: 133,
     GTA_V_ultraFullHD: 79,
     GTA_V_ultraHD4K: 67,
@@ -199,7 +199,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 3060 ',
+    gpuModel: 'RTX 3060 ',
     GTA_V_heightFullHD: 138,
     GTA_V_ultraFullHD: 81,
     GTA_V_ultraHD4K: 70,
@@ -217,7 +217,7 @@ export const GPU_DB = [
     test_3DMark06: 47118,
   },
   {
-    GPU: 'RTX 3060 Max-Q',
+    gpuModel: 'RTX 3060 Max-Q',
     GTA_V_heightFullHD: 130,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 62,
@@ -235,7 +235,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 3050 Ti Max-Q',
+    gpuModel: 'RTX 3050 Ti Max-Q',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -253,7 +253,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 3050 Ti',
+    gpuModel: 'RTX 3050 Ti',
     GTA_V_heightFullHD: 129,
     GTA_V_ultraFullHD: 73,
     GTA_V_ultraHD4K: 60,
@@ -271,7 +271,7 @@ export const GPU_DB = [
     test_3DMark06: 45370,
   },
   {
-    GPU: 'RTX 3050 Max-Q',
+    gpuModel: 'RTX 3050 Max-Q',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -289,7 +289,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 3050',
+    gpuModel: 'RTX 3050',
     GTA_V_heightFullHD: 107,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 50,
@@ -307,7 +307,7 @@ export const GPU_DB = [
     test_3DMark06: 39512,
   },
   {
-    GPU: 'RTX 2080 SUPER',
+    gpuModel: 'RTX 2080 SUPER',
     GTA_V_heightFullHD: 164,
     GTA_V_ultraFullHD: 92,
     GTA_V_ultraHD4K: 75,
@@ -325,7 +325,7 @@ export const GPU_DB = [
     test_3DMark06: 41873,
   },
   {
-    GPU: 'RTX 2080',
+    gpuModel: 'RTX 2080',
     GTA_V_heightFullHD: 126,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 65,
@@ -343,7 +343,7 @@ export const GPU_DB = [
     test_3DMark06: 41995,
   },
   {
-    GPU: 'RTX 2080 SUPER Max-Q',
+    gpuModel: 'RTX 2080 SUPER Max-Q',
     GTA_V_heightFullHD: 153,
     GTA_V_ultraFullHD: 86,
     GTA_V_ultraHD4K: 70,
@@ -361,7 +361,7 @@ export const GPU_DB = [
     test_3DMark06: 38265,
   },
   {
-    GPU: 'RTX 2080 Max-Q',
+    gpuModel: 'RTX 2080 Max-Q',
     GTA_V_heightFullHD: 115,
     GTA_V_ultraFullHD: 63,
     GTA_V_ultraHD4K: 55,
@@ -379,7 +379,7 @@ export const GPU_DB = [
     test_3DMark06: 37613,
   },
   {
-    GPU: 'RTX 2070 SUPER ',
+    gpuModel: 'RTX 2070 SUPER ',
     GTA_V_heightFullHD: 163,
     GTA_V_ultraFullHD: 94,
     GTA_V_ultraHD4K: 77,
@@ -397,7 +397,7 @@ export const GPU_DB = [
     test_3DMark06: 43041,
   },
   {
-    GPU: 'RTX 2070',
+    gpuModel: 'RTX 2070',
     GTA_V_heightFullHD: 127,
     GTA_V_ultraFullHD: 71,
     GTA_V_ultraHD4K: 61,
@@ -415,7 +415,7 @@ export const GPU_DB = [
     test_3DMark06: 42409,
   },
   {
-    GPU: 'RTX 2070 SUPER Max-Q',
+    gpuModel: 'RTX 2070 SUPER Max-Q',
     GTA_V_heightFullHD: 160,
     GTA_V_ultraFullHD: 90,
     GTA_V_ultraHD4K: 73,
@@ -433,7 +433,7 @@ export const GPU_DB = [
     test_3DMark06: 43406,
   },
   {
-    GPU: 'RTX 2070 Max-Q',
+    gpuModel: 'RTX 2070 Max-Q',
     GTA_V_heightFullHD: 93,
     GTA_V_ultraFullHD: 54,
     GTA_V_ultraHD4K: 46,
@@ -451,7 +451,7 @@ export const GPU_DB = [
     test_3DMark06: 35284,
   },
   {
-    GPU: 'RTX 2060',
+    gpuModel: 'RTX 2060',
     GTA_V_heightFullHD: 116,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 56,
@@ -469,7 +469,7 @@ export const GPU_DB = [
     test_3DMark06: 38509,
   },
   {
-    GPU: 'RTX 2060 Max-Q',
+    gpuModel: 'RTX 2060 Max-Q',
     GTA_V_heightFullHD: 110,
     GTA_V_ultraFullHD: 60,
     GTA_V_ultraHD4K: 50,
@@ -487,7 +487,7 @@ export const GPU_DB = [
     test_3DMark06: 37332,
   },
   {
-    GPU: 'RTX 2050',
+    gpuModel: 'RTX 2050',
     GTA_V_heightFullHD: 108,
     GTA_V_ultraFullHD: 53,
     GTA_V_ultraHD4K: 44,
@@ -505,7 +505,7 @@ export const GPU_DB = [
     test_3DMark06: 39263,
   },
   {
-    GPU: 'GTX 1080 SLI ',
+    gpuModel: 'GTX 1080 SLI ',
     GTA_V_heightFullHD: 195,
     GTA_V_ultraFullHD: 165,
     GTA_V_ultraHD4K: 120,
@@ -523,7 +523,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1070 SLI ',
+    gpuModel: 'GTX 1070 SLI ',
     GTA_V_heightFullHD: 156,
     GTA_V_ultraFullHD: 137,
     GTA_V_ultraHD4K: 95,
@@ -541,7 +541,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1080',
+    gpuModel: 'GTX 1080',
     GTA_V_heightFullHD: 130,
     GTA_V_ultraFullHD: 106,
     GTA_V_ultraHD4K: 75,
@@ -559,7 +559,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1080 Max-Q',
+    gpuModel: 'GTX 1080 Max-Q',
     GTA_V_heightFullHD: 108,
     GTA_V_ultraFullHD: 88,
     GTA_V_ultraHD4K: 63,
@@ -577,7 +577,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1070',
+    gpuModel: 'GTX 1070',
     GTA_V_heightFullHD: 120,
     GTA_V_ultraFullHD: 64,
     GTA_V_ultraHD4K: 53,
@@ -595,7 +595,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1070 Max-Q',
+    gpuModel: 'GTX 1070 Max-Q',
     GTA_V_heightFullHD: 102,
     GTA_V_ultraFullHD: 54,
     GTA_V_ultraHD4K: 45,
@@ -613,7 +613,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1660 Ti',
+    gpuModel: 'GTX 1660 Ti',
     GTA_V_heightFullHD: 123,
     GTA_V_ultraFullHD: 68,
     GTA_V_ultraHD4K: 57,
@@ -631,7 +631,7 @@ export const GPU_DB = [
     test_3DMark06: 38153,
   },
   {
-    GPU: 'GTX 1660 Ti Max-Q',
+    gpuModel: 'GTX 1660 Ti Max-Q',
     GTA_V_heightFullHD: 115,
     GTA_V_ultraFullHD: 60,
     GTA_V_ultraHD4K: 49,
@@ -649,7 +649,7 @@ export const GPU_DB = [
     test_3DMark06: 25211,
   },
   {
-    GPU: 'GTX 1650 Ti',
+    gpuModel: 'GTX 1650 Ti',
     GTA_V_heightFullHD: 80,
     GTA_V_ultraFullHD: 46,
     GTA_V_ultraHD4K: 40,
@@ -667,7 +667,7 @@ export const GPU_DB = [
     test_3DMark06: 39720,
   },
   {
-    GPU: 'GTX 1650 Ti Max-Q',
+    gpuModel: 'GTX 1650 Ti Max-Q',
     GTA_V_heightFullHD: 74,
     GTA_V_ultraFullHD: 42,
     GTA_V_ultraHD4K: 36,
@@ -685,7 +685,7 @@ export const GPU_DB = [
     test_3DMark06: 30266,
   },
   {
-    GPU: 'GTX 1650',
+    gpuModel: 'GTX 1650',
     GTA_V_heightFullHD: 68,
     GTA_V_ultraFullHD: 38,
     GTA_V_ultraHD4K: 33,
@@ -703,7 +703,7 @@ export const GPU_DB = [
     test_3DMark06: 34484,
   },
   {
-    GPU: 'GTX 1650 Max-Q',
+    gpuModel: 'GTX 1650 Max-Q',
     GTA_V_heightFullHD: 63,
     GTA_V_ultraFullHD: 35,
     GTA_V_ultraHD4K: 30,
@@ -721,7 +721,7 @@ export const GPU_DB = [
     test_3DMark06: 32040,
   },
   {
-    GPU: 'GTX 1060',
+    gpuModel: 'GTX 1060',
     GTA_V_heightFullHD: 90,
     GTA_V_ultraFullHD: 48,
     GTA_V_ultraHD4K: 38,
@@ -739,7 +739,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1060 Max-Q',
+    gpuModel: 'GTX 1060 Max-Q',
     GTA_V_heightFullHD: 81,
     GTA_V_ultraFullHD: 43,
     GTA_V_ultraHD4K: 34,
@@ -757,7 +757,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1050 Ti',
+    gpuModel: 'GTX 1050 Ti',
     GTA_V_heightFullHD: 60,
     GTA_V_ultraFullHD: 36,
     GTA_V_ultraHD4K: 30,
@@ -775,7 +775,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1050 Ti Max-Q',
+    gpuModel: 'GTX 1050 Ti Max-Q',
     GTA_V_heightFullHD: 57,
     GTA_V_ultraFullHD: 34,
     GTA_V_ultraHD4K: 28,
@@ -793,7 +793,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1050',
+    gpuModel: 'GTX 1050',
     GTA_V_heightFullHD: 65,
     GTA_V_ultraFullHD: 18,
     GTA_V_ultraHD4K: 0,
@@ -811,7 +811,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 1050 Max-Q',
+    gpuModel: 'GTX 1050 Max-Q',
     GTA_V_heightFullHD: 62,
     GTA_V_ultraFullHD: 27,
     GTA_V_ultraHD4K: 26,
@@ -829,7 +829,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'MX570',
+    gpuModel: 'MX570',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -847,7 +847,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'MX550',
+    gpuModel: 'MX550',
     GTA_V_heightFullHD: 78,
     GTA_V_ultraFullHD: 35,
     GTA_V_ultraHD4K: 0,
@@ -865,7 +865,7 @@ export const GPU_DB = [
     test_3DMark06: 42476,
   },
   {
-    GPU: 'MX450',
+    gpuModel: 'MX450',
     GTA_V_heightFullHD: 51,
     GTA_V_ultraFullHD: 22,
     GTA_V_ultraHD4K: 0,
@@ -883,7 +883,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'MX350',
+    gpuModel: 'MX350',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 20,
     GTA_V_ultraHD4K: 0,
@@ -901,7 +901,7 @@ export const GPU_DB = [
     test_3DMark06: 23907,
   },
   {
-    GPU: 'MX330',
+    gpuModel: 'MX330',
     GTA_V_heightFullHD: 32,
     GTA_V_ultraFullHD: 13,
     GTA_V_ultraHD4K: 0,
@@ -919,7 +919,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'MX250',
+    gpuModel: 'MX250',
     GTA_V_heightFullHD: 41,
     GTA_V_ultraFullHD: 8,
     GTA_V_ultraHD4K: 0,
@@ -937,7 +937,7 @@ export const GPU_DB = [
     test_3DMark06: 25428,
   },
   {
-    GPU: 'MX230',
+    gpuModel: 'MX230',
     GTA_V_heightFullHD: 26,
     GTA_V_ultraFullHD: 10,
     GTA_V_ultraHD4K: 0,
@@ -955,7 +955,7 @@ export const GPU_DB = [
     test_3DMark06: 18399,
   },
   {
-    GPU: 'MX150',
+    gpuModel: 'MX150',
     GTA_V_heightFullHD: 35,
     GTA_V_ultraFullHD: 16,
     GTA_V_ultraHD4K: 0,
@@ -973,7 +973,7 @@ export const GPU_DB = [
     test_3DMark06: 19312,
   },
   {
-    GPU: 'MX130',
+    gpuModel: 'MX130',
     GTA_V_heightFullHD: 24,
     GTA_V_ultraFullHD: 10,
     GTA_V_ultraHD4K: 0,
@@ -991,7 +991,7 @@ export const GPU_DB = [
     test_3DMark06: 18080,
   },
   {
-    GPU: 'MX110',
+    gpuModel: 'MX110',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1009,7 +1009,7 @@ export const GPU_DB = [
     test_3DMark06: 14612,
   },
   {
-    GPU: 'GTX 980M SLI',
+    gpuModel: 'GTX 980M SLI',
     GTA_V_heightFullHD: 142,
     GTA_V_ultraFullHD: 61,
     GTA_V_ultraHD4K: 55,
@@ -1027,7 +1027,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 970M SLI',
+    gpuModel: 'GTX 970M SLI',
     GTA_V_heightFullHD: 120,
     GTA_V_ultraFullHD: 50,
     GTA_V_ultraHD4K: 43,
@@ -1045,7 +1045,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 965M SLI',
+    gpuModel: 'GTX 965M SLI',
     GTA_V_heightFullHD: 88,
     GTA_V_ultraFullHD: 39,
     GTA_V_ultraHD4K: 35,
@@ -1063,7 +1063,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 980M',
+    gpuModel: 'GTX 980M',
     GTA_V_heightFullHD: 84,
     GTA_V_ultraFullHD: 36,
     GTA_V_ultraHD4K: 41,
@@ -1081,7 +1081,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 970M',
+    gpuModel: 'GTX 970M',
     GTA_V_heightFullHD: 69,
     GTA_V_ultraFullHD: 28,
     GTA_V_ultraHD4K: 33,
@@ -1099,7 +1099,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 965M',
+    gpuModel: 'GTX 965M',
     GTA_V_heightFullHD: 52,
     GTA_V_ultraFullHD: 23,
     GTA_V_ultraHD4K: 0,
@@ -1117,7 +1117,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 960M',
+    gpuModel: 'GTX 960M',
     GTA_V_heightFullHD: 43,
     GTA_V_ultraFullHD: 18,
     GTA_V_ultraHD4K: 0,
@@ -1135,7 +1135,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'GTX 950M',
+    gpuModel: 'GTX 950M',
     GTA_V_heightFullHD: 28,
     GTA_V_ultraFullHD: 12,
     GTA_V_ultraHD4K: 0,
@@ -1153,7 +1153,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 7600M XT',
+    gpuModel: 'RX 7600M XT',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1171,7 +1171,7 @@ export const GPU_DB = [
     test_3DMark06: 22993,
   },
   {
-    GPU: 'RX 7900M',
+    gpuModel: 'RX 7900M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1189,7 +1189,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 7700S',
+    gpuModel: 'RX 7700S',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1207,7 +1207,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 7600M',
+    gpuModel: 'RX 7600M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1225,7 +1225,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 7600S',
+    gpuModel: 'RX 7600S',
     GTA_V_heightFullHD: 163,
     GTA_V_ultraFullHD: 89,
     GTA_V_ultraHD4K: 67,
@@ -1243,7 +1243,7 @@ export const GPU_DB = [
     test_3DMark06: 51164,
   },
   {
-    GPU: 'RX 6850M XT',
+    gpuModel: 'RX 6850M XT',
     GTA_V_heightFullHD: 157,
     GTA_V_ultraFullHD: 95,
     GTA_V_ultraHD4K: 70,
@@ -1261,7 +1261,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 6800M',
+    gpuModel: 'RX 6800M',
     GTA_V_heightFullHD: 124,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 56,
@@ -1279,7 +1279,7 @@ export const GPU_DB = [
     test_3DMark06: 46433,
   },
   {
-    GPU: 'RX 6800S',
+    gpuModel: 'RX 6800S',
     GTA_V_heightFullHD: 161,
     GTA_V_ultraFullHD: 89,
     GTA_V_ultraHD4K: 45,
@@ -1297,7 +1297,7 @@ export const GPU_DB = [
     test_3DMark06: 51423,
   },
   {
-    GPU: 'RX 6700M',
+    gpuModel: 'RX 6700M',
     GTA_V_heightFullHD: 147,
     GTA_V_ultraFullHD: 86,
     GTA_V_ultraHD4K: 65,
@@ -1315,7 +1315,7 @@ export const GPU_DB = [
     test_3DMark06: 46372,
   },
   {
-    GPU: 'RX 6700S',
+    gpuModel: 'RX 6700S',
     GTA_V_heightFullHD: 155,
     GTA_V_ultraFullHD: 81,
     GTA_V_ultraHD4K: 40,
@@ -1333,7 +1333,7 @@ export const GPU_DB = [
     test_3DMark06: 48289,
   },
   {
-    GPU: 'RX 6650M',
+    gpuModel: 'RX 6650M',
     GTA_V_heightFullHD: 143,
     GTA_V_ultraFullHD: 75,
     GTA_V_ultraHD4K: 61,
@@ -1351,7 +1351,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RX 6600M',
+    gpuModel: 'RX 6600M',
     GTA_V_heightFullHD: 138,
     GTA_V_ultraFullHD: 72,
     GTA_V_ultraHD4K: 58,
@@ -1369,7 +1369,7 @@ export const GPU_DB = [
     test_3DMark06: 45858,
   },
   {
-    GPU: 'RX 6500M',
+    gpuModel: 'RX 6500M',
     GTA_V_heightFullHD: 97,
     GTA_V_ultraFullHD: 42,
     GTA_V_ultraHD4K: 19,
@@ -1387,7 +1387,7 @@ export const GPU_DB = [
     test_3DMark06: 35958,
   },
   {
-    GPU: 'RX 5500M',
+    gpuModel: 'RX 5500M',
     GTA_V_heightFullHD: 104,
     GTA_V_ultraFullHD: 53,
     GTA_V_ultraHD4K: 20,
@@ -1405,7 +1405,7 @@ export const GPU_DB = [
     test_3DMark06: 25762,
   },
   {
-    GPU: 'RX 580',
+    gpuModel: 'RX 580',
     GTA_V_heightFullHD: 83,
     GTA_V_ultraFullHD: 40,
     GTA_V_ultraHD4K: 32,
@@ -1423,7 +1423,7 @@ export const GPU_DB = [
     test_3DMark06: 28909,
   },
   {
-    GPU: 'RX 560X',
+    gpuModel: 'RX 560X',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 21,
     GTA_V_ultraHD4K: 0,
@@ -1441,7 +1441,7 @@ export const GPU_DB = [
     test_3DMark06: 25527,
   },
   {
-    GPU: 'RX 560',
+    gpuModel: 'RX 560',
     GTA_V_heightFullHD: 48,
     GTA_V_ultraFullHD: 23,
     GTA_V_ultraHD4K: 0,
@@ -1459,10 +1459,10 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'A530M',
+    gpuModel: 'A530M',
   },
   {
-    GPU: 'A370M',
+    gpuModel: 'A370M',
     GTA_V_heightFullHD: 41,
     GTA_V_ultraFullHD: 16,
     GTA_V_ultraHD4K: 0,
@@ -1480,7 +1480,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'A350M',
+    gpuModel: 'A350M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1498,7 +1498,7 @@ export const GPU_DB = [
     test_3DMark06: 31625,
   },
   {
-    GPU: 'UHD Graphics Xe G4 48EUs',
+    gpuModel: 'UHD Graphics Xe G4 48EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1516,7 +1516,7 @@ export const GPU_DB = [
     test_3DMark06: 10779,
   },
   {
-    GPU: 'UHD Graphics Xe 750 32EUs',
+    gpuModel: 'UHD Graphics Xe 750 32EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1534,7 +1534,7 @@ export const GPU_DB = [
     test_3DMark06: 17392,
   },
   {
-    GPU: 'UHD Graphics Xe 32EUs',
+    gpuModel: 'UHD Graphics Xe 32EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1552,7 +1552,7 @@ export const GPU_DB = [
     test_3DMark06: 19588,
   },
   {
-    GPU: 'UHD Graphics Xe 24EUs',
+    gpuModel: 'UHD Graphics Xe 24EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1570,7 +1570,7 @@ export const GPU_DB = [
     test_3DMark06: 10126,
   },
   {
-    GPU: 'UHD Graphics Xe 16EUs',
+    gpuModel: 'UHD Graphics Xe 16EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1588,7 +1588,7 @@ export const GPU_DB = [
     test_3DMark06: 12452,
   },
   {
-    GPU: 'UHD Graphics 24EUs',
+    gpuModel: 'UHD Graphics 24EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1606,7 +1606,7 @@ export const GPU_DB = [
     test_3DMark06: 10126,
   },
   {
-    GPU: 'UHD Graphics G7',
+    gpuModel: 'UHD Graphics G7',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1624,7 +1624,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'UHD Graphics G1',
+    gpuModel: 'UHD Graphics G1',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1642,7 +1642,7 @@ export const GPU_DB = [
     test_3DMark06: 10955,
   },
   {
-    GPU: 'UHD Graphics 770',
+    gpuModel: 'UHD Graphics 770',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1660,7 +1660,7 @@ export const GPU_DB = [
     test_3DMark06: 23428,
   },
   {
-    GPU: 'UHD Graphics 64EUs',
+    gpuModel: 'UHD Graphics 64EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1678,7 +1678,7 @@ export const GPU_DB = [
     test_3DMark06: 25362,
   },
   {
-    GPU: 'UHD Graphics 620',
+    gpuModel: 'UHD Graphics 620',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1696,7 +1696,7 @@ export const GPU_DB = [
     test_3DMark06: 10642,
   },
   {
-    GPU: 'UHD Graphics 617',
+    gpuModel: 'UHD Graphics 617',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1714,7 +1714,7 @@ export const GPU_DB = [
     test_3DMark06: 8662,
   },
   {
-    GPU: 'UHD Graphics 615',
+    gpuModel: 'UHD Graphics 615',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1732,7 +1732,7 @@ export const GPU_DB = [
     test_3DMark06: 6601,
   },
   {
-    GPU: 'UHD Graphics 610',
+    gpuModel: 'UHD Graphics 610',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1750,7 +1750,7 @@ export const GPU_DB = [
     test_3DMark06: 6902,
   },
   {
-    GPU: 'UHD Graphics 605',
+    gpuModel: 'UHD Graphics 605',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1768,7 +1768,7 @@ export const GPU_DB = [
     test_3DMark06: 4171,
   },
   {
-    GPU: 'UHD Graphics 600',
+    gpuModel: 'UHD Graphics 600',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1786,7 +1786,7 @@ export const GPU_DB = [
     test_3DMark06: 3960,
   },
   {
-    GPU: 'UHD Graphics 32EUs',
+    gpuModel: 'UHD Graphics 32EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1804,7 +1804,7 @@ export const GPU_DB = [
     test_3DMark06: 19588,
   },
   {
-    GPU: 'UHD Graphics',
+    gpuModel: 'UHD Graphics',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1822,7 +1822,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'Iris Xe Graphics G7 96EUs',
+    gpuModel: 'Iris Xe Graphics G7 96EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1840,7 +1840,7 @@ export const GPU_DB = [
     test_3DMark06: 28231,
   },
   {
-    GPU: 'Iris Xe Graphics G7 80EUs',
+    gpuModel: 'Iris Xe Graphics G7 80EUs',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1858,7 +1858,7 @@ export const GPU_DB = [
     test_3DMark06: 25691,
   },
   {
-    GPU: 'Arc 8-Cores',
+    gpuModel: 'Arc 8-Cores',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1876,7 +1876,7 @@ export const GPU_DB = [
     test_3DMark06: 36831,
   },
   {
-    GPU: 'Arc 7-Cores',
+    gpuModel: 'Arc 7-Cores',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1894,7 +1894,7 @@ export const GPU_DB = [
     test_3DMark06: 40578,
   },
   {
-    GPU: 'Graphics 4-Cores',
+    gpuModel: 'Graphics 4-Cores',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1912,7 +1912,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'Vega 11',
+    gpuModel: 'Vega 11',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1930,7 +1930,7 @@ export const GPU_DB = [
     test_3DMark06: 20608,
   },
   {
-    GPU: 'Vega 10',
+    gpuModel: 'Vega 10',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1948,7 +1948,7 @@ export const GPU_DB = [
     test_3DMark06: 14890,
   },
   {
-    GPU: 'Vega 8',
+    gpuModel: 'Vega 8',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1966,7 +1966,7 @@ export const GPU_DB = [
     test_3DMark06: 25886,
   },
   {
-    GPU: 'Vega 7',
+    gpuModel: 'Vega 7',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -1984,7 +1984,7 @@ export const GPU_DB = [
     test_3DMark06: 22493,
   },
   {
-    GPU: 'Vega 6',
+    gpuModel: 'Vega 6',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2002,7 +2002,7 @@ export const GPU_DB = [
     test_3DMark06: 14700,
   },
   {
-    GPU: 'Vega 5',
+    gpuModel: 'Vega 5',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2020,7 +2020,7 @@ export const GPU_DB = [
     test_3DMark06: 15564,
   },
   {
-    GPU: 'Vega 3',
+    gpuModel: 'Vega 3',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2038,7 +2038,7 @@ export const GPU_DB = [
     test_3DMark06: 11103,
   },
   {
-    GPU: 'Vega 2',
+    gpuModel: 'Vega 2',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2056,7 +2056,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'Radeon 780M',
+    gpuModel: 'Radeon 780M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2074,7 +2074,7 @@ export const GPU_DB = [
     test_3DMark06: 42242,
   },
   {
-    GPU: 'Radeon 760M',
+    gpuModel: 'Radeon 760M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2092,7 +2092,7 @@ export const GPU_DB = [
     test_3DMark06: 35337,
   },
   {
-    GPU: 'Radeon 740M',
+    gpuModel: 'Radeon 740M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2110,7 +2110,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'Radeon 680M',
+    gpuModel: 'Radeon 680M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2128,7 +2128,7 @@ export const GPU_DB = [
     test_3DMark06: 33479,
   },
   {
-    GPU: 'Radeon 660M',
+    gpuModel: 'Radeon 660M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2146,7 +2146,7 @@ export const GPU_DB = [
     test_3DMark06: 27876,
   },
   {
-    GPU: 'Radeon 610M',
+    gpuModel: 'Radeon 610M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2164,7 +2164,7 @@ export const GPU_DB = [
     test_3DMark06: 13875,
   },
   {
-    GPU: 'RX 640',
+    gpuModel: 'RX 640',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2182,7 +2182,7 @@ export const GPU_DB = [
     test_3DMark06: 20261,
   },
   {
-    GPU: 'RX 5600M',
+    gpuModel: 'RX 5600M',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2200,7 +2200,7 @@ export const GPU_DB = [
     test_3DMark06: 38139,
   },
   {
-    GPU: 'RTX A5500',
+    gpuModel: 'RTX A5500',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2212,7 +2212,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A5000',
+    gpuModel: 'RTX A5000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2224,7 +2224,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A500',
+    gpuModel: 'RTX A500',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2242,7 +2242,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX A4500',
+    gpuModel: 'RTX A4500',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2254,7 +2254,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A4000',
+    gpuModel: 'RTX A4000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2266,7 +2266,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A3500',
+    gpuModel: 'RTX A3500',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2278,7 +2278,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A3000',
+    gpuModel: 'RTX A3000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2290,7 +2290,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX A2000',
+    gpuModel: 'RTX A2000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2308,7 +2308,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX A1000',
+    gpuModel: 'RTX A1000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2326,7 +2326,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 5000 Ada',
+    gpuModel: 'RTX 5000 Ada',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2338,7 +2338,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX 5000',
+    gpuModel: 'RTX 5000',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2350,37 +2350,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX 3500 Ada',
-    GTA_V_heightFullHD: 0,
-    GTA_V_ultraFullHD: 0,
-    GTA_V_ultraHD4K: 0,
-    Cyberpunk_2077_heightFullHD: 0,
-    Cyberpunk_2077_ultraFullHD: 0,
-    Cyberpunk_2077_ultraHD4K: 0,
-    God_of_War_heightFullHD: 0,
-    God_of_War_ultraFullHD: 0,
-    God_of_War_ultraHD4K: 0,
-    gpu_type: 3750,
-    gpu_series: 26808,
-    vr_support: true,
-    memory_type: 20913,
-    test_3DMark_Vantage_P: 0,
-    test_3DMark06: 0,
-  },
-  {
-    GPU: 'RTX 3500',
-    GTA_V_heightFullHD: 0,
-    GTA_V_ultraFullHD: 0,
-    GTA_V_ultraHD4K: 0,
-    Cyberpunk_2077_heightFullHD: 0,
-    Cyberpunk_2077_ultraFullHD: 0,
-    Cyberpunk_2077_ultraHD4K: 0,
-    God_of_War_heightFullHD: 0,
-    God_of_War_ultraFullHD: 0,
-    God_of_War_ultraHD4K: 0,
-  },
-  {
-    GPU: 'RTX 3000 Ada',
+    gpuModel: 'RTX 3500 Ada',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2398,7 +2368,37 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'RTX 2000 Ada',
+    gpuModel: 'RTX 3500',
+    GTA_V_heightFullHD: 0,
+    GTA_V_ultraFullHD: 0,
+    GTA_V_ultraHD4K: 0,
+    Cyberpunk_2077_heightFullHD: 0,
+    Cyberpunk_2077_ultraFullHD: 0,
+    Cyberpunk_2077_ultraHD4K: 0,
+    God_of_War_heightFullHD: 0,
+    God_of_War_ultraFullHD: 0,
+    God_of_War_ultraHD4K: 0,
+  },
+  {
+    gpuModel: 'RTX 3000 Ada',
+    GTA_V_heightFullHD: 0,
+    GTA_V_ultraFullHD: 0,
+    GTA_V_ultraHD4K: 0,
+    Cyberpunk_2077_heightFullHD: 0,
+    Cyberpunk_2077_ultraFullHD: 0,
+    Cyberpunk_2077_ultraHD4K: 0,
+    God_of_War_heightFullHD: 0,
+    God_of_War_ultraFullHD: 0,
+    God_of_War_ultraHD4K: 0,
+    gpu_type: 3750,
+    gpu_series: 26808,
+    vr_support: true,
+    memory_type: 20913,
+    test_3DMark_Vantage_P: 0,
+    test_3DMark06: 0,
+  },
+  {
+    gpuModel: 'RTX 2000 Ada',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2416,7 +2416,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'T600',
+    gpuModel: 'T600',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2428,7 +2428,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'T550',
+    gpuModel: 'T550',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2440,7 +2440,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'T500',
+    gpuModel: 'T500',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2452,7 +2452,7 @@ export const GPU_DB = [
     God_of_War_ultraHD4K: 0,
   },
   {
-    GPU: 'RTX 4000 Ada',
+    gpuModel: 'RTX 4000 Ada',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
@@ -2470,7 +2470,7 @@ export const GPU_DB = [
     test_3DMark06: 0,
   },
   {
-    GPU: 'Adreno GPU',
+    gpuModel: 'Adreno GPU',
     GTA_V_heightFullHD: 0,
     GTA_V_ultraFullHD: 0,
     GTA_V_ultraHD4K: 0,
