@@ -1,4 +1,4 @@
-export const resetRadioButtons = () => {
+export const resetRadio = () => {
   const radioButtonsIds = [];
 
   for (let index = 1; index < 100; index++) {

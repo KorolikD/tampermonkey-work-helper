@@ -12,11 +12,8 @@
 // @grant        none
 // ==/UserScript==
 
-import { createButton } from './createButton';
-import { navigation } from './features';
-import { resetRadioButtons } from './features';
-import { gpuHelper } from './features';
-import { cpuHelper } from './features';
+import { createButton } from './helpers';
+import { cpuButton, gpuButton, navigation, resetRadio } from './features';
 
 // Скрол догори після натискання на кнопку копіювання даних
 const pageHref = window.location.href;
@@ -35,19 +32,19 @@ let isReadyToRunHelper = true;
 customButton.addEventListener('click', () => {
   const pageHref = window.location.href;
   if (pageHref.includes('/edit/') && isReadyToRunHelper) {
-    gpuHelper();
-    cpuHelper();
+    gpuButton();
+    cpuButton();
     isReadyToRunHelper = false;
   }
 });
 
-// Кнопка запуску скрипта resetRadioButtons в хедері
-createButton(container, 'resetRadioButtons');
-const resetRadioButton = document.querySelector('.custom-resetRadioButtons-button');
+// Кнопка запуску скрипта resetRadioButton в хедері
+createButton(container, 'resetRadio');
+const resetRadioButton = document.querySelector('.custom-resetRadio-button');
 resetRadioButton.addEventListener('click', () => {
   const pageHref = window.location.href;
   if (pageHref.includes('/edit/')) {
-    resetRadioButtons();
+    resetRadio();
   }
 });
 

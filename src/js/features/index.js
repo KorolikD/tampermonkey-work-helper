@@ -1,4 +1,4 @@
 export * from './navigation/navigation';
-export * from './resetRadioButtons/resetRadioButtons';
-export * from './cpuHelper/cpuHelper';
-export * from './gpuHelper/gpuHelper';
+export * from './resetRadio/resetRadio';
+export * from './cpuButton/cpuButton';
+export * from './gpuButton/gpuButton';

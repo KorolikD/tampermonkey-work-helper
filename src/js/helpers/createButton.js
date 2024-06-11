@@ -9,7 +9,7 @@ export function createButton(elementRef, buttonFor) {
     elementRef.append(button);
   }
 
-  if (buttonFor === 'resetRadioButtons') {
+  if (buttonFor === 'resetRadio') {
     button.textContent = '<R>';
     button.className = `custom-${buttonFor}-button btn btn-default`;
     button.style.marginLeft = '4px';

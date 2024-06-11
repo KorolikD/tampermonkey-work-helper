@@ -1,13 +1,11 @@
+import { createButton, inputData, refGeneration } from '../../helpers';
 import { cpuDomIds } from './domIds';
 import { CPU_DB } from './CPU_DB';
-import { createButton } from '../../createButton';
 import { cpuDefaultData } from './defaultData';
-import { inputData } from '../../inputData';
-import { refGeneration } from '../../refGeneration';
-import { gpuDefaultData } from '../gpuHelper/defaultData';
-import { gpuDomIds } from '../gpuHelper/domIds';
+import { gpuDefaultData } from '../gpuButton/defaultData';
+import { gpuDomIds } from '../gpuButton/domIds';
 
-export function cpuHelper() {
+export function cpuButton() {
   // Відмальовуємо кнопки
   const cpuButtonField = document.getElementById('id_cprop_6462');
   const cpuGraphicButtonField = document.getElementById('id_cprop_6473');
