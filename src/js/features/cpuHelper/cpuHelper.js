@@ -1,11 +1,11 @@
-import { cpuDomIds } from './cpuDomIds';
+import { cpuDomIds } from './domIds';
 import { CPU_DB } from './CPU_DB';
 import { createButton } from '../../createButton';
-import { cpuDefaultData } from './cpuDefaultData';
+import { cpuDefaultData } from './defaultData';
 import { inputData } from '../../inputData';
 import { refGeneration } from '../../refGeneration';
-import { gpuDefaultData } from '../gpuHelper/gpuDefaultData';
-import { gpuDomIds } from '../gpuHelper/gpuDomIds';
+import { gpuDefaultData } from '../gpuHelper/defaultData';
+import { gpuDomIds } from '../gpuHelper/domIds';
 
 export function cpuHelper() {
   // Відмальовуємо кнопки

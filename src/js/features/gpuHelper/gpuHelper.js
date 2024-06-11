@@ -1,7 +1,7 @@
-import { gpuDomIds } from './gpuDomIds';
+import { gpuDomIds } from './domIds';
 import { GPU_DB } from './GPU_DB';
 import { createButton } from '../../createButton';
-import { gpuDefaultData } from './gpuDefaultData';
+import { gpuDefaultData } from './defaultData';
 import { inputData } from '../../inputData';
 import { refGeneration } from '../../refGeneration';
 
