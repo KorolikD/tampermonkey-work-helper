@@ -5,7 +5,7 @@ export function createButton(elementRef, buttonFor) {
 
   if (buttonFor === 'helper') {
     button.className = `custom-${buttonFor}-button btn btn-default`;
-    button.style.marginLeft = '45vw';
+    button.style.marginLeft = '408px';
     elementRef.append(button);
   }
 

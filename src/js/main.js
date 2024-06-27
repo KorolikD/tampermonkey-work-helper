@@ -12,7 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-import { createButton } from './helpers';
+import { createButton, gpuDB } from './helpers';
 import { cpuButton, gpuButton, navigation, resetRadio } from './features';
 
 // Скрол догори після натискання на кнопку копіювання даних
@@ -32,9 +32,11 @@ let isReadyToRunHelper = true;
 customButton.addEventListener('click', () => {
   const pageHref = window.location.href;
   if (pageHref.includes('/edit/') && isReadyToRunHelper) {
+    // gpuDB();
     gpuButton();
     cpuButton();
-    isReadyToRunHelper = false;
+
+    // isReadyToRunHelper = false;
   }
 });
 
