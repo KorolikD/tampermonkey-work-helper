@@ -2426,6 +2426,12 @@ export const GPU_DB = [
     God_of_War_heightFullHD: 0,
     God_of_War_ultraFullHD: 0,
     God_of_War_ultraHD4K: 0,
+    gpu_type: 3750,
+    gpu_series: 3947,
+    vr_support: false,
+    memory_type: 20913,
+    test_3DMark_Vantage_P: 39112,
+    test_3DMark06: 0,
   },
   {
     gpuModel: 'T550',
