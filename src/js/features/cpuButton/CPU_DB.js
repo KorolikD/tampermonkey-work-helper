@@ -2776,7 +2776,7 @@ export const CPU_DB = [
     series: 'Core i5',
     cpuModel: '14450HX',
     codename: 'Raptor Lake (14th Gen)',
-    cores: '10 (P6+E4)',
+    cores: '10 (6P+4E)',
     threads: 16,
     baseFrequency: 1.8,
     turboFrequency: 4.8,
