@@ -4038,7 +4038,7 @@ export const CPU_DB = [
   {
     series: 'Ryzen AI',
     cpuModel: '9 HX 370',
-    codename: 'Strix Point (Zen 5)        ',
+    codename: 'Strix Point (Zen 5)',
     cores: 12,
     threads: 24,
     baseFrequency: 2,
@@ -4054,7 +4054,7 @@ export const CPU_DB = [
   {
     series: 'Ryzen AI',
     cpuModel: '9 HX 375',
-    codename: 'Strix Point (Zen 5)        ',
+    codename: 'Strix Point (Zen 5)',
     cores: 12,
     threads: 24,
     baseFrequency: 2,
@@ -4070,7 +4070,7 @@ export const CPU_DB = [
   {
     series: 'Ryzen AI',
     cpuModel: '9 365',
-    codename: 'Strix Point (Zen 5)        ',
+    codename: 'Strix Point (Zen 5)',
     cores: 10,
     threads: 20,
     baseFrequency: 2,
