@@ -1,6 +1,6 @@
 export function navigation() {
   const blockTitles = document.querySelectorAll('.tabs-divider-grey span');
-  const container = document.querySelector('.form-horizontal');
+  const container = document.querySelector('.container-fluid');
 
   const styles = `
 .custom-title-list {
