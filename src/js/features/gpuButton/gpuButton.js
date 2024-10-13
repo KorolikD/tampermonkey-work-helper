@@ -1,6 +1,6 @@
 import { createButton, inputData, refGeneration } from '../../helpers';
 import { gpuDomIds } from './domIds';
-import { GPU_DB } from './GPU_DB';
+import { GPU_DB } from '../data/GPU_DB';
 import { gpuDefaultData } from './defaultData';
 
 export function gpuButton() {

@@ -1,6 +1,6 @@
 import { createButton, inputData, refGeneration } from '../../helpers';
 import { cpuDomIds } from './domIds';
-import { CPU_DB } from './CPU_DB';
+import { CPU_DB } from '../data/CPU_DB';
 import { cpuDefaultData } from './defaultData';
 import { gpuDefaultData } from '../gpuButton/defaultData';
 import { gpuDomIds } from '../gpuButton/domIds';
