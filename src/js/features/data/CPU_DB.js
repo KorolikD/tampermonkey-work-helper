@@ -469,7 +469,7 @@ export const CPU_DB = [
     gpuModel: 'UHD Graphics 770',
   },
   {
-    series: 'Processor',
+    series: 'Processor N-series',
     cpuModel: 'N95',
     codename: 'Alder Lake-N (13th Gen)',
     cores: 4,
@@ -485,7 +485,7 @@ export const CPU_DB = [
     gpuModel: 'UHD Graphics Xe 16EUs',
   },
   {
-    series: 'Processor',
+    series: 'Processor N-series',
     cpuModel: 'N100',
     codename: 'Alder Lake-N (13th Gen)',
     cores: 4,
@@ -501,7 +501,7 @@ export const CPU_DB = [
     gpuModel: 'UHD Graphics 24EUs',
   },
   {
-    series: 'Processor',
+    series: 'Processor N-series',
     cpuModel: 'N200',
     codename: 'Alder Lake-N (13th Gen)',
     cores: 4,
@@ -2308,7 +2308,7 @@ export const CPU_DB = [
     gpuModel: 'Radeon 780M',
   },
   {
-    series: 'Processor',
+    series: 'Processor U-series',
     cpuModel: 'U300',
     codename: 'Raptor Lake (13th Gen)',
     cores: '5 (1P+4E)',
