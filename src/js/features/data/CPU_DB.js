@@ -4783,7 +4783,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 33136,
     test_SuperPI_1M: 0,
-    gpuModel: 'Radeon 8040S',
+    gpuModel: 'Radeon 8050S',
   },
   {
     series: 'Ryzen AI',
@@ -4799,7 +4799,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 44680,
     test_SuperPI_1M: 0,
-    gpuModel: 'Radeon 8040S',
+    gpuModel: 'Radeon 8050S',
   },
   {
     series: 'Ryzen AI',
@@ -4815,7 +4815,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 51261,
     test_SuperPI_1M: 0,
-    gpuModel: 'Radeon 8040S',
+    gpuModel: 'Radeon 8060S',
   },
   {
     series: 'Ryzen AI',
