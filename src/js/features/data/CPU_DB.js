@@ -4713,7 +4713,7 @@ export const CPU_DB = [
     cores: 12,
     threads: 24,
     baseFrequency: 3,
-    turboFrequency: '5/2',
+    turboFrequency: 5.2,
     l2Cache: 0,
     l3Cache: 0,
     tdp: 55,
@@ -4868,7 +4868,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 9',
-    cpuModel: 270,
+    cpuModel: '270',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4884,7 +4884,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: 260,
+    cpuModel: '260',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4900,7 +4900,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: 250,
+    cpuModel: '250',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4916,7 +4916,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 240,
+    cpuModel: '240',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4932,7 +4932,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 230,
+    cpuModel: '230',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4948,7 +4948,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 220,
+    cpuModel: '220',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4964,7 +4964,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 3',
-    cpuModel: 210,
+    cpuModel: '210',
     codename: 'Hawk Point (Zen 4)',
     cores: 4,
     threads: 8,
