@@ -4360,7 +4360,7 @@ export const CPU_DB = [
     codename: 'Arrow Lake (Series 2)',
     cores: '14 (P4+E8+LPE2)',
     threads: 14,
-    baseFrequency: '1/3',
+    baseFrequency: 1.3,
     turboFrequency: 4.9,
     l2Cache: 0,
     l3Cache: 0,
@@ -4384,7 +4384,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18476,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 5',
@@ -4432,7 +4432,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 17036,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 5',
@@ -4480,7 +4480,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 52775,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -4496,7 +4496,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 19791,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -4528,7 +4528,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 7',
@@ -4544,7 +4544,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 18527,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 9',
@@ -4560,7 +4560,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 55140,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core Ultra 9',
@@ -4592,7 +4592,7 @@ export const CPU_DB = [
     test_3DMark06: 0,
     test_Passmark_CPU_Mark: 62069,
     test_SuperPI_1M: 0,
-    gpuModel: 'Graphics 4-Core',
+    gpuModel: 'Graphics 4-Cores',
   },
   {
     series: 'Core 5',
@@ -4868,7 +4868,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 9',
-    cpuModel: '270',
+    cpuModel: 270,
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4884,7 +4884,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: '260',
+    cpuModel: 260,
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4900,7 +4900,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: '250',
+    cpuModel: 250,
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4916,7 +4916,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: '240',
+    cpuModel: 240,
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4932,7 +4932,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: '230',
+    cpuModel: 230,
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4948,7 +4948,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: '220',
+    cpuModel: 220,
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4964,7 +4964,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 3',
-    cpuModel: '210',
+    cpuModel: 210,
     codename: 'Hawk Point (Zen 4)',
     cores: 4,
     threads: 8,
@@ -4977,5 +4977,21 @@ export const CPU_DB = [
     test_Passmark_CPU_Mark: 13009,
     test_SuperPI_1M: 0,
     gpuModel: 'Radeon 740M',
+  },
+  {
+    series: 'Snapdragon X',
+    cpuModel: 'X1-26-100',
+    codename: 'нет данных',
+    cores: 8,
+    threads: 8,
+    baseFrequency: 3,
+    turboFrequency: 0,
+    l2Cache: 0,
+    l3Cache: 0,
+    tdp: 0,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 0,
+    test_SuperPI_1M: 20,
+    gpuModel: 'Adreno GPU',
   },
 ];
