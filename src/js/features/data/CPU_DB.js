@@ -2208,7 +2208,7 @@ export const CPU_DB = [
     tdp: 54,
     test_3DMark06: 12948,
     test_Passmark_CPU_Mark: 22923,
-    test_SuperPI_1M: '7/9',
+    test_SuperPI_1M: 7.9,
     gpuModel: 'Radeon 760M',
   },
   {
@@ -4319,7 +4319,7 @@ export const CPU_DB = [
     tdp: 15,
     test_3DMark06: 8507,
     test_Passmark_CPU_Mark: 11103,
-    test_SuperPI_1M: '17/09',
+    test_SuperPI_1M: 17.09,
     gpuModel: 'UHD Graphics 32EUs',
   },
   {
@@ -4868,7 +4868,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 9',
-    cpuModel: 270,
+    cpuModel: '270',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4884,7 +4884,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: 260,
+    cpuModel: '260',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4900,7 +4900,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 7',
-    cpuModel: 250,
+    cpuModel: '250',
     codename: 'Hawk Point (Zen 4)',
     cores: 8,
     threads: 16,
@@ -4916,7 +4916,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 240,
+    cpuModel: '240',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4932,7 +4932,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 230,
+    cpuModel: '230',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4948,7 +4948,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 5',
-    cpuModel: 220,
+    cpuModel: '220',
     codename: 'Hawk Point (Zen 4)',
     cores: 6,
     threads: 12,
@@ -4964,7 +4964,7 @@ export const CPU_DB = [
   },
   {
     series: 'Ryzen 3',
-    cpuModel: 210,
+    cpuModel: '210',
     codename: 'Hawk Point (Zen 4)',
     cores: 4,
     threads: 8,
@@ -4993,5 +4993,21 @@ export const CPU_DB = [
     test_Passmark_CPU_Mark: 0,
     test_SuperPI_1M: 20,
     gpuModel: 'Adreno GPU',
+  },
+  {
+    series: 'Ryzen 9',
+    cpuModel: '8940HX',
+    codename: 'Dragon Range (Zen 4)',
+    cores: 16,
+    threads: 32,
+    baseFrequency: 2.4,
+    turboFrequency: 5.3,
+    l2Cache: 0,
+    l3Cache: 0,
+    tdp: 55,
+    test_3DMark06: 0,
+    test_Passmark_CPU_Mark: 55564,
+    test_SuperPI_1M: 0,
+    gpuModel: 'Radeon 610M',
   },
 ];

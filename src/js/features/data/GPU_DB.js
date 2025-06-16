@@ -2034,7 +2034,7 @@ export const GPU_DB = [
     gpu_series: 3815,
     vr_support: false,
     memory_type: 3846,
-    test_3DMark_Vantage_P: '5440/5',
+    test_3DMark_Vantage_P: 5441,
     test_3DMark06: 11103,
   },
   {
