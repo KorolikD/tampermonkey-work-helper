@@ -5061,7 +5061,7 @@ export const CPU_DB = [
   {
     series: 'Ryzen AI',
     cpuModel: '7 PRO 350',
-    codename: 'Strix Point (Zen 5)',
+    codename: 'Krackan Point (Zen 5)',
     cores: 8,
     threads: 16,
     baseFrequency: 2,
@@ -5077,7 +5077,7 @@ export const CPU_DB = [
   {
     series: 'Ryzen AI',
     cpuModel: '5 PRO 340',
-    codename: 'Strix Point (Zen 5)',
+    codename: 'Krackan Point (Zen 5)',
     cores: 6,
     threads: 12,
     baseFrequency: 2,
